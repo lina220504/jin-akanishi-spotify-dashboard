@@ -22,29 +22,27 @@ jobs:
           node-version: '20'
 
       - name: バックエンドの依存関係をインストール
-        run: |
-          cd backend
-          npm install
+        run: npm install
 
       - name: Spotifyデータを取得
         env:
           SPOTIFY_CLIENT_ID: ${{ secrets.SPOTIFY_CLIENT_ID }}
           SPOTIFY_CLIENT_SECRET: ${{ secrets.SPOTIFY_CLIENT_SECRET }}
-          ARTIST_ID: '3Z3TqPXlrrRdm7IP3pQXjw'
-        run: |
-          cd backend
-          node fetch-spotify-data.js
+          ARTIST_ID: '5gSFxPK5Te7WRIKL5CEWos'
+        run: node backend/fetch-spotify-data.js
 
-      - name: データを分析
-        run: |
-          cd backend
-          node analyze-data.js
+      - name: 人気度履歴を追跡
+        env:
+          SPOTIFY_CLIENT_ID: ${{ secrets.SPOTIFY_CLIENT_ID }}
+          SPOTIFY_CLIENT_SECRET: ${{ secrets.SPOTIFY_CLIENT_SECRET }}
+          ARTIST_ID: '5gSFxPK5Te7WRIKL5CEWos'
+        run: node backend/track-popularity-history.js
 
       - name: フロントエンド用にデータをコピー
         run: |
           mkdir -p frontend/public/data
-          cp data/latest.json frontend/public/data/
-          cp data/analysis.json frontend/public/data/
+          cp data/latest.json frontend/public/data/ || echo "latest.json not found"
+          cp data/popularity-trends.json frontend/public/data/ || echo "popularity-trends.json not found"
 
       - name: 変更をコミット
         run: |
