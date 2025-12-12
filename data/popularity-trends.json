@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2025-12-12T07:14:42.423Z",
+  "lastUpdated": "2025-12-12T07:19:57.468Z",
   "dataPoints": 1,
   "dateRange": {
     "start": "2025-12-12",
@@ -8,7 +8,7 @@
   "artistPopularity": [
     {
       "date": "2025-12-12",
-      "timestamp": "2025-12-12T07:14:42.407Z",
+      "timestamp": "2025-12-12T07:19:57.453Z",
       "popularity": 43,
       "followers": 94183
     }
