@@ -23,7 +23,9 @@ function App() {
     try {
       setLoading(true)
 
-      const dataResponse = await fetch('/data/latest.json')
+      // Viteのベースパスを使用
+      const basePath = import.meta.env.BASE_URL
+      const dataResponse = await fetch(`${basePath}data/latest.json`)
 
       if (!dataResponse.ok) {
         throw new Error('データの読み込みに失敗しました')
@@ -34,7 +36,7 @@ function App() {
 
       // analysis.jsonはオプショナル
       try {
-        const analysisResponse = await fetch('/data/analysis.json')
+        const analysisResponse = await fetch(`${basePath}data/analysis.json`)
         if (analysisResponse.ok) {
           const analysisData = await analysisResponse.json()
           setAnalysis(analysisData)
@@ -45,7 +47,7 @@ function App() {
 
       // popularity-trends.jsonはオプショナル
       try {
-        const trendsResponse = await fetch('/data/popularity-trends.json')
+        const trendsResponse = await fetch(`${basePath}data/popularity-trends.json`)
         if (trendsResponse.ok) {
           const trendsData = await trendsResponse.json()
           setTrends(trendsData)
