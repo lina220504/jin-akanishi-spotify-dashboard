@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2025-12-12T07:37:28.213Z",
+  "lastUpdated": "2025-12-12T08:17:08.273Z",
   "artist": {
     "id": "5gSFxPK5Te7WRIKL5CEWos",
     "name": "Jin Akanishi",
@@ -4511,7 +4511,7 @@
       "images": [
         {
           "height": null,
-          "url": "https://image-cdn-fa.spotifycdn.com/image/ab67706c0000da8445bf9ea06ba0b3d68b205105",
+          "url": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000da8445bf9ea06ba0b3d68b205105",
           "width": null
         }
       ],
@@ -4656,7 +4656,7 @@
       "images": [
         {
           "height": null,
-          "url": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000da8462ff9196fa726c65e8763e7b",
+          "url": "https://image-cdn-fa.spotifycdn.com/image/ab67706c0000da8462ff9196fa726c65e8763e7b",
           "width": null
         }
       ],
@@ -4701,21 +4701,6 @@
         }
       ],
       "owner": "ka-ci1967"
-    },
-    {
-      "id": "60UPTijEafr7GbhGcYkeNF",
-      "name": "桂銀淑　ベスト・セレクション",
-      "description": "",
-      "followers": 0,
-      "tracks_total": 18,
-      "images": [
-        {
-          "height": null,
-          "url": "https://i.scdn.co/image/ab67616d00001e0249b3eadaaec725bd794fd058",
-          "width": null
-        }
-      ],
-      "owner": "midori"
     },
     {
       "id": "0zvQvodHwgXaAShzyhDHkQ",
