@@ -1,12 +1,12 @@
 {
   "records": [
     {
-      "timestamp": "2025-12-12T02:31:04.081Z",
+      "timestamp": "2025-12-12T07:03:25.086Z",
       "date": "2025-12-12",
       "artist": {
         "name": "Jin Akanishi",
         "popularity": 43,
-        "followers": 94169
+        "followers": 94183
       },
       "topTracks": [
         {
