@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2025-12-12T08:27:14.498Z",
+  "lastUpdated": "2025-12-12T08:50:20.323Z",
   "artist": {
     "id": "5gSFxPK5Te7WRIKL5CEWos",
     "name": "Jin Akanishi",
@@ -4701,6 +4701,21 @@
         }
       ],
       "owner": "ka-ci1967"
+    },
+    {
+      "id": "60UPTijEafr7GbhGcYkeNF",
+      "name": "桂銀淑　ベスト・セレクション",
+      "description": "",
+      "followers": 0,
+      "tracks_total": 18,
+      "images": [
+        {
+          "height": null,
+          "url": "https://i.scdn.co/image/ab67616d00001e0249b3eadaaec725bd794fd058",
+          "width": null
+        }
+      ],
+      "owner": "midori"
     },
     {
       "id": "0zvQvodHwgXaAShzyhDHkQ",
