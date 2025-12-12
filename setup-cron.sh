@@ -8,18 +8,40 @@ PROJECT_DIR="$( cd "$( dirname "${BASH_SOURCE[0]}" )" && pwd )"
 # ログディレクトリを作成
 mkdir -p "$PROJECT_DIR/logs"
 
-# cronジョブの内容
-CRON_JOB="0 2 * * * cd $PROJECT_DIR && /usr/local/bin/node backend/track-popularity-history.js >> logs/cron.log 2>&1"
-
 echo "========================================="
 echo "  Spotify データ取得の自動化設定"
 echo "========================================="
 echo ""
+echo "環境変数を設定してください:"
+echo ""
+
+# Spotify Client IDの入力
+read -p "SPOTIFY_CLIENT_ID: " CLIENT_ID
+if [ -z "$CLIENT_ID" ]; then
+    echo "❌ Client IDが入力されませんでした。設定を終了します。"
+    exit 1
+fi
+
+# Spotify Client Secretの入力
+read -p "SPOTIFY_CLIENT_SECRET: " CLIENT_SECRET
+if [ -z "$CLIENT_SECRET" ]; then
+    echo "❌ Client Secretが入力されませんでした。設定を終了します。"
+    exit 1
+fi
+
+# Artist IDの入力（オプション）
+read -p "ARTIST_ID (オプション、Enter でスキップ): " ARTIST_ID
+
+# cronジョブの内容（環境変数を含む）
+if [ -z "$ARTIST_ID" ]; then
+    CRON_JOB="0 2 * * * export SPOTIFY_CLIENT_ID='$CLIENT_ID' && export SPOTIFY_CLIENT_SECRET='$CLIENT_SECRET' && cd $PROJECT_DIR && /usr/local/bin/node backend/track-popularity-history.js >> logs/cron.log 2>&1"
+else
+    CRON_JOB="0 2 * * * export SPOTIFY_CLIENT_ID='$CLIENT_ID' && export SPOTIFY_CLIENT_SECRET='$CLIENT_SECRET' && export ARTIST_ID='$ARTIST_ID' && cd $PROJECT_DIR && /usr/local/bin/node backend/track-popularity-history.js >> logs/cron.log 2>&1"
+fi
+
+echo ""
 echo "このスクリプトは以下のcronジョブを設定します："
 echo "毎日午前2時にデータを取得"
-echo ""
-echo "設定内容:"
-echo "$CRON_JOB"
 echo ""
 echo "続行しますか? (y/n)"
 read -r response

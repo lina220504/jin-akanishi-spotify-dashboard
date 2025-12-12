@@ -2,16 +2,23 @@ import axios from 'axios';
 import fs from 'fs';
 import path from 'path';
 import { fileURLToPath } from 'url';
-import dotenv from 'dotenv';
 
 const __filename = fileURLToPath(import.meta.url);
 const __dirname = path.dirname(__filename);
 
-dotenv.config({ path: path.join(__dirname, '..', '.env') });
-
 const CLIENT_ID = process.env.SPOTIFY_CLIENT_ID;
 const CLIENT_SECRET = process.env.SPOTIFY_CLIENT_SECRET;
 const ARTIST_ID = process.env.ARTIST_ID || '5gSFxPK5Te7WRIKL5CEWos';
+
+// 環境変数のチェック
+if (!CLIENT_ID || !CLIENT_SECRET) {
+  console.error('\n❌ エラー: Spotify APIの認証情報が設定されていません\n');
+  console.error('以下のコマンドで環境変数を設定してから実行してください:\n');
+  console.error('export SPOTIFY_CLIENT_ID="あなたのClient ID"');
+  console.error('export SPOTIFY_CLIENT_SECRET="あなたのClient Secret"');
+  console.error('export ARTIST_ID="アーティストID" # オプション\n');
+  process.exit(1);
+}
 
 class PopularityHistoryTracker {
   constructor() {

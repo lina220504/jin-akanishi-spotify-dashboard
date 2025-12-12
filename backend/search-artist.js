@@ -3,15 +3,21 @@ import readline from 'readline';
 import fs from 'fs';
 import path from 'path';
 import { fileURLToPath } from 'url';
-import dotenv from 'dotenv';
 
 const __filename = fileURLToPath(import.meta.url);
 const __dirname = path.dirname(__filename);
 
-dotenv.config({ path: path.join(__dirname, '..', '.env') });
-
 const CLIENT_ID = process.env.SPOTIFY_CLIENT_ID;
 const CLIENT_SECRET = process.env.SPOTIFY_CLIENT_SECRET;
+
+// 環境変数のチェック
+if (!CLIENT_ID || !CLIENT_SECRET) {
+  console.error('\n❌ エラー: Spotify APIの認証情報が設定されていません\n');
+  console.error('以下のコマンドで環境変数を設定してから実行してください:\n');
+  console.error('export SPOTIFY_CLIENT_ID="あなたのClient ID"');
+  console.error('export SPOTIFY_CLIENT_SECRET="あなたのClient Secret"\n');
+  process.exit(1);
+}
 
 // アクセストークンを取得
 async function getAccessToken() {

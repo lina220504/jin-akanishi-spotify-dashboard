@@ -20,21 +20,43 @@
 
 ### ローカル環境での実行
 
+まず、Spotify APIの認証情報を環境変数として設定します：
+
 ```bash
 # プロジェクトディレクトリに移動
 cd jin-akanishi-spotify-dashboard
 
-# .envファイルを作成
-cp .env.example .env
+# 環境変数を設定（ターミナルで実行）
+export SPOTIFY_CLIENT_ID="あなたのClient ID"
+export SPOTIFY_CLIENT_SECRET="あなたのClient Secret"
+export ARTIST_ID="3Z3TqPXlrrRdm7IP3pQXjw"  # オプション
 ```
 
-`.env`ファイルを開いて、先ほどコピーしたClient IDとClient Secretを貼り付け:
+**重要:**
+- これらの環境変数は現在のターミナルセッションでのみ有効です
+- 新しいターミナルウィンドウを開いた場合は再度設定が必要です
 
-```env
-SPOTIFY_CLIENT_ID=あなたのClient ID
-SPOTIFY_CLIENT_SECRET=あなたのClient Secret
-ARTIST_ID=3Z3TqPXlrrRdm7IP3pQXjw
+**永続的に設定する方法（オプション）:**
+
+毎回環境変数を設定するのが面倒な場合は、シェルの設定ファイルに追加できます：
+
+```bash
+# zshを使用している場合（macOSのデフォルト）
+echo 'export SPOTIFY_CLIENT_ID="あなたのClient ID"' >> ~/.zshrc
+echo 'export SPOTIFY_CLIENT_SECRET="あなたのClient Secret"' >> ~/.zshrc
+echo 'export ARTIST_ID="3Z3TqPXlrrRdm7IP3pQXjw"' >> ~/.zshrc
+source ~/.zshrc
+
+# bashを使用している場合
+echo 'export SPOTIFY_CLIENT_ID="あなたのClient ID"' >> ~/.bash_profile
+echo 'export SPOTIFY_CLIENT_SECRET="あなたのClient Secret"' >> ~/.bash_profile
+echo 'export ARTIST_ID="3Z3TqPXlrrRdm7IP3pQXjw"' >> ~/.bash_profile
+source ~/.bash_profile
 ```
+
+これで、新しいターミナルウィンドウでも自動的に環境変数が設定されます。
+
+⚠️ **注意:** この方法は便利ですが、他のユーザーがあなたのMacにアクセスできる場合は推奨しません。
 
 ### バックエンドのセットアップ
 
@@ -52,6 +74,20 @@ npm run fetch-data
 
 # 人気度履歴の追跡を開始
 npm run track-popularity
+```
+
+**環境変数が設定されていない場合:**
+
+スクリプトを実行すると、以下のようなエラーメッセージが表示されます：
+
+```
+❌ エラー: Spotify APIの認証情報が設定されていません
+
+以下のコマンドで環境変数を設定してから実行してください:
+
+export SPOTIFY_CLIENT_ID="あなたのClient ID"
+export SPOTIFY_CLIENT_SECRET="あなたのClient Secret"
+export ARTIST_ID="アーティストID" # オプション
 ```
 
 成功すると、`data`フォルダに以下のファイルが作成されます:
@@ -89,10 +125,17 @@ npm run dev
 ./setup-cron.sh
 ```
 
+実行すると、以下の情報を入力するように求められます：
+- `SPOTIFY_CLIENT_ID`: あなたのSpotify Client ID
+- `SPOTIFY_CLIENT_SECRET`: あなたのSpotify Client Secret
+- `ARTIST_ID`: アーティストID（オプション、Enterでスキップ可能）
+
 **このスクリプトがやること:**
+- 入力された認証情報をcronジョブに安全に保存
 - 毎日午前2時に自動実行するスケジュールを設定
 - 既存の同じジョブがあれば上書き
 - 実行結果を `logs/cron.log` に保存
+- **GitHubにプッシュしても認証情報は含まれません**
 
 #### 設定の確認
 
@@ -102,9 +145,9 @@ cronジョブが正しく設定されたか確認：
 crontab -l
 ```
 
-以下のような行が表示されればOK：
+以下のような行が表示されればOK（環境変数が含まれています）：
 ```
-0 2 * * * cd /Users/rina/Desktop/仁くんSpotify分析ダッシュボード && /usr/local/bin/node backend/track-popularity-history.js >> logs/cron.log 2>&1
+0 2 * * * export SPOTIFY_CLIENT_ID='...' && export SPOTIFY_CLIENT_SECRET='...' && cd /Users/rina/Desktop/仁くんSpotify分析ダッシュボード && /usr/local/bin/node backend/track-popularity-history.js >> logs/cron.log 2>&1
 ```
 
 #### ログの確認
@@ -137,7 +180,8 @@ crontab -e
 crontab -e
 
 # 以下の行を追加（毎日午前2時に実行）
-0 2 * * * cd /Users/rina/Desktop/仁くんSpotify分析ダッシュボード && /usr/local/bin/node backend/track-popularity-history.js >> logs/cron.log 2>&1
+# ※ CLIENT_IDとCLIENT_SECRETは実際の値に置き換えてください
+0 2 * * * export SPOTIFY_CLIENT_ID='あなたのClient ID' && export SPOTIFY_CLIENT_SECRET='あなたのClient Secret' && cd /Users/rina/Desktop/仁くんSpotify分析ダッシュボード && /usr/local/bin/node backend/track-popularity-history.js >> logs/cron.log 2>&1
 ```
 
 **重要:**
@@ -151,7 +195,7 @@ crontab -e
 # Gitリポジトリを初期化（まだの場合）
 git init
 
-# .envファイルは除外されます（.gitignoreに含まれています）
+# すべてのファイルを追加（認証情報は含まれません）
 git add .
 git commit -m "Initial commit: Jin Akanishi Spotify Dashboard"
 
@@ -161,6 +205,11 @@ git remote add origin https://github.com/あなたのユーザー名/jin-akanish
 git branch -M main
 git push -u origin main
 ```
+
+**安全性について:**
+- Spotify APIの認証情報（Client IDとClient Secret）はコードに含まれていません
+- すべての認証情報は環境変数として管理されます
+- GitHubに公開しても安全です
 
 ## ステップ4: GitHub Actionsの設定（週次自動更新）
 
