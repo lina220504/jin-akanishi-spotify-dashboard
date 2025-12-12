@@ -1,0 +1,138 @@
+{
+  "lastUpdated": "2025-12-12T02:31:04.107Z",
+  "dataPoints": 1,
+  "dateRange": {
+    "start": "2025-12-12",
+    "end": "2025-12-12"
+  },
+  "artistPopularity": [
+    {
+      "date": "2025-12-12",
+      "timestamp": "2025-12-12T02:31:04.081Z",
+      "popularity": 43,
+      "followers": 94169
+    }
+  ],
+  "trackPopularity": [
+    {
+      "id": "3VJccANqkXGawjSaRfl4bb",
+      "name": "ムラサキ",
+      "album": "OUR BEST - YOUR BEST",
+      "releaseDate": "2020-04-22",
+      "history": [
+        {
+          "date": "2025-12-12",
+          "popularity": 49
+        }
+      ]
+    },
+    {
+      "id": "3pPKgREHKngbOpmQF94yEf",
+      "name": "Eternal",
+      "album": "OUR BEST - YOUR BEST",
+      "releaseDate": "2020-04-22",
+      "history": [
+        {
+          "date": "2025-12-12",
+          "popularity": 47
+        }
+      ]
+    },
+    {
+      "id": "2pms1TAcs1IWRgBCH60Y4e",
+      "name": "Baby",
+      "album": "Me",
+      "releaseDate": "2015-06-24",
+      "history": [
+        {
+          "date": "2025-12-12",
+          "popularity": 40
+        }
+      ]
+    },
+    {
+      "id": "2SsJ6Oz2ZPrgz7RjvOKZLO",
+      "name": "Care",
+      "album": "OUR BEST - YOUR BEST",
+      "releaseDate": "2020-04-22",
+      "history": [
+        {
+          "date": "2025-12-12",
+          "popularity": 39
+        }
+      ]
+    },
+    {
+      "id": "73zHmM1mTjEA2ZX96TOzkO",
+      "name": "Love Song",
+      "album": "OUR BEST - YOUR BEST",
+      "releaseDate": "2020-04-22",
+      "history": [
+        {
+          "date": "2025-12-12",
+          "popularity": 37
+        }
+      ]
+    },
+    {
+      "id": "6Oje95P9YoTtGM0nw7pC6M",
+      "name": "Let Me Talk To U",
+      "album": "Me",
+      "releaseDate": "2015-06-24",
+      "history": [
+        {
+          "date": "2025-12-12",
+          "popularity": 36
+        }
+      ]
+    },
+    {
+      "id": "2stX1216pKxP8f71KRlCMG",
+      "name": "Hey What’s Up?",
+      "album": "OUR BEST - YOUR BEST",
+      "releaseDate": "2020-04-22",
+      "history": [
+        {
+          "date": "2025-12-12",
+          "popularity": 35
+        }
+      ]
+    },
+    {
+      "id": "3EUKK3l91NJoJL7ml3EmXa",
+      "name": "Summer Kinda Love",
+      "album": "Audio Fashion",
+      "releaseDate": "2016-06-22",
+      "history": [
+        {
+          "date": "2025-12-12",
+          "popularity": 32
+        }
+      ]
+    },
+    {
+      "id": "4zA11R5cLsreV42BSzszcQ",
+      "name": "Good Time",
+      "album": "Me",
+      "releaseDate": "2015-06-24",
+      "history": [
+        {
+          "date": "2025-12-12",
+          "popularity": 31
+        }
+      ]
+    },
+    {
+      "id": "0UqpSch8OnnLOYDYfvJnyZ",
+      "name": "アイナルホウエ",
+      "album": "OUR BEST - YOUR BEST",
+      "releaseDate": "2020-04-22",
+      "history": [
+        {
+          "date": "2025-12-12",
+          "popularity": 32
+        }
+      ]
+    }
+  ]
+}

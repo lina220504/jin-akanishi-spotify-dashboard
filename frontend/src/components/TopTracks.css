@@ -1,0 +1,110 @@
+.top-tracks {
+  display: flex;
+  flex-direction: column;
+  gap: 1rem;
+}
+
+.track-item {
+  display: flex;
+  align-items: center;
+  gap: 1rem;
+  padding: 1rem;
+  background: rgba(255, 255, 255, 0.03);
+  border: 1px solid rgba(255, 255, 255, 0.1);
+  border-radius: 8px;
+  transition: all 0.2s;
+}
+
+.track-item:hover {
+  background: rgba(255, 255, 255, 0.06);
+  border-color: #1db954;
+  transform: translateX(4px);
+}
+
+.track-rank {
+  font-size: 1.5rem;
+  font-weight: bold;
+  color: #1db954;
+  min-width: 40px;
+  text-align: center;
+}
+
+.track-image {
+  width: 60px;
+  height: 60px;
+  border-radius: 4px;
+  object-fit: cover;
+}
+
+.track-info {
+  flex: 1;
+  min-width: 0;
+}
+
+.track-name {
+  margin: 0 0 0.25rem 0;
+  font-size: 1rem;
+  color: #fff;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+
+.track-album {
+  margin: 0;
+  font-size: 0.85rem;
+  color: rgba(255, 255, 255, 0.6);
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+
+.track-stats {
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+  min-width: 120px;
+}
+
+.popularity-bar {
+  flex: 1;
+  height: 8px;
+  background: rgba(255, 255, 255, 0.1);
+  border-radius: 4px;
+  overflow: hidden;
+}
+
+.popularity-fill {
+  height: 100%;
+  background: linear-gradient(90deg, #1db954 0%, #1ed760 100%);
+  transition: width 0.3s;
+}
+
+.popularity-value {
+  font-size: 0.9rem;
+  font-weight: bold;
+  color: #1db954;
+  min-width: 30px;
+  text-align: right;
+}
+
+@media (max-width: 768px) {
+  .track-item {
+    flex-wrap: wrap;
+  }
+
+  .track-rank {
+    font-size: 1.2rem;
+    min-width: 30px;
+  }
+
+  .track-image {
+    width: 50px;
+    height: 50px;
+  }
+
+  .track-stats {
+    width: 100%;
+    margin-left: 90px;
+  }
+}

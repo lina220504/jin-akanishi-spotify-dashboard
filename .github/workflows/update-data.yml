@@ -1,0 +1,61 @@
+name: 週次データ更新
+
+on:
+  schedule:
+    # 毎週月曜日の午前9時（JST = UTC 0:00）に実行
+    - cron: '0 0 * * 1'
+  workflow_dispatch: # 手動実行も可能
+
+jobs:
+  update-spotify-data:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: リポジトリをチェックアウト
+        uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Node.jsをセットアップ
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      - name: バックエンドの依存関係をインストール
+        run: |
+          cd backend
+          npm install
+
+      - name: Spotifyデータを取得
+        env:
+          SPOTIFY_CLIENT_ID: ${{ secrets.SPOTIFY_CLIENT_ID }}
+          SPOTIFY_CLIENT_SECRET: ${{ secrets.SPOTIFY_CLIENT_SECRET }}
+          ARTIST_ID: '3Z3TqPXlrrRdm7IP3pQXjw'
+        run: |
+          cd backend
+          node fetch-spotify-data.js
+
+      - name: データを分析
+        run: |
+          cd backend
+          node analyze-data.js
+
+      - name: フロントエンド用にデータをコピー
+        run: |
+          mkdir -p frontend/public/data
+          cp data/latest.json frontend/public/data/
+          cp data/analysis.json frontend/public/data/
+
+      - name: 変更をコミット
+        run: |
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+          git config --local user.name "github-actions[bot]"
+          git add data/
+          git add frontend/public/data/
+          git diff --quiet && git diff --staged --quiet || git commit -m "📊 週次データ更新 $(date +'%Y-%m-%d')"
+
+      - name: 変更をプッシュ
+        uses: ad-m/github-push-action@master
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          branch: ${{ github.ref }}
