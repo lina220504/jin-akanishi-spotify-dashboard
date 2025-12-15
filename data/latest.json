@@ -1,9 +1,9 @@
 {
-  "lastUpdated": "2025-12-15T04:02:04.144Z",
+  "lastUpdated": "2025-12-15T05:59:49.023Z",
   "artist": {
     "id": "5gSFxPK5Te7WRIKL5CEWos",
     "name": "Jin Akanishi",
-    "followers": 94220,
+    "followers": 94243,
     "popularity": 43,
     "genres": [
       "j-pop"
@@ -4046,7 +4046,7 @@
       "images": [
         {
           "height": null,
-          "url": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000d72c491857f0d662d9002ee591c2",
+          "url": "https://image-cdn-fa.spotifycdn.com/image/ab67706c0000da84491857f0d662d9002ee591c2",
           "width": null
         }
       ],
@@ -4306,7 +4306,7 @@
       "images": [
         {
           "height": null,
-          "url": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000da8489b8123a141f0660706c8532",
+          "url": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000d72c89b8123a141f0660706c8532",
           "width": null
         }
       ],
@@ -4346,7 +4346,7 @@
       "images": [
         {
           "height": null,
-          "url": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000da84481fdb13b61feb360a4b38fc",
+          "url": "https://image-cdn-fa.spotifycdn.com/image/ab67706c0000d72c481fdb13b61feb360a4b38fc",
           "width": null
         }
       ],
@@ -4651,7 +4651,7 @@
       "images": [
         {
           "height": null,
-          "url": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000d72c3671664c77eddf7349528c3b",
+          "url": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000da843671664c77eddf7349528c3b",
           "width": null
         }
       ],
@@ -4751,31 +4751,6 @@
         }
       ],
       "owner": "うらちゃん"
-    },
-    {
-      "id": "07ByVZIZJGJcpnic6k63Qs",
-      "name": "米津玄師人気曲",
-      "description": "",
-      "followers": 0,
-      "tracks_total": 27,
-      "images": [
-        {
-          "height": 640,
-          "url": "https://mosaic.scdn.co/640/ab67616d00001e02173fe2bb0d2a222613d80d86ab67616d00001e0234cb7e7467b07d86db350458ab67616d00001e026d1d4e875e2424cdd07f3232ab67616d00001e02775e8184725e0fb89337dd9a",
-          "width": 640
-        },
-        {
-          "height": 300,
-          "url": "https://mosaic.scdn.co/300/ab67616d00001e02173fe2bb0d2a222613d80d86ab67616d00001e0234cb7e7467b07d86db350458ab67616d00001e026d1d4e875e2424cdd07f3232ab67616d00001e02775e8184725e0fb89337dd9a",
-          "width": 300
-        },
-        {
-          "height": 60,
-          "url": "https://mosaic.scdn.co/60/ab67616d00001e02173fe2bb0d2a222613d80d86ab67616d00001e0234cb7e7467b07d86db350458ab67616d00001e026d1d4e875e2424cdd07f3232ab67616d00001e02775e8184725e0fb89337dd9a",
-          "width": 60
-        }
-      ],
-      "owner": "Daigo"
     },
     {
       "id": "3JPJGyYTShJMujJjZm9A4w",
