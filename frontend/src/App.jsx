@@ -25,6 +25,8 @@ function App() {
 
       // Viteのベースパスを使用
       const basePath = import.meta.env.BASE_URL
+      console.log('🔧 BASE_URL:', basePath)
+      console.log('🔧 Fetching:', `${basePath}data/latest.json`)
       const dataResponse = await fetch(`${basePath}data/latest.json`)
 
       if (!dataResponse.ok) {
