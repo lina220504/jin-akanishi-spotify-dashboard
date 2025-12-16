@@ -53,10 +53,24 @@ jobs:
           cp data/latest.json frontend/public/data/ || echo "latest.json not found"
           cp data/popularity-trends.json frontend/public/data/ || echo "popularity-trends.json not found"
 
+      - name: App.jsxの内容を確認
+        run: |
+          echo "=== Checking App.jsx for basePath code ==="
+          grep -A 2 "BASE_URL" frontend/src/App.jsx || echo "BASE_URL not found!"
+
+      - name: Viteキャッシュをクリア
+        run: |
+          cd frontend
+          rm -rf node_modules/.vite
+          rm -rf dist
+
       - name: フロントエンドをビルド
         run: |
           cd frontend
           npm run build
+          echo "=== Build complete. Checking dist files ==="
+          ls -la dist/
+          ls -la dist/assets/ | head -5
 
       - name: GitHub Pagesにデプロイ
         uses: peaceiris/actions-gh-pages@v3
