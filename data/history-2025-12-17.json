@@ -1,9 +1,9 @@
 {
-  "lastUpdated": "2025-12-17T03:24:20.798Z",
+  "lastUpdated": "2025-12-17T06:31:57.841Z",
   "artist": {
     "id": "5gSFxPK5Te7WRIKL5CEWos",
     "name": "Jin Akanishi",
-    "followers": 94250,
+    "followers": 94266,
     "popularity": 43,
     "genres": [
       "j-pop"
@@ -4593,31 +4593,6 @@
       "owner": "なおと"
     },
     {
-      "id": "5WavizZdpsmOMa9JiYnqpG",
-      "name": "山下智久",
-      "description": "",
-      "followers": 0,
-      "tracks_total": 18,
-      "images": [
-        {
-          "height": 640,
-          "url": "https://mosaic.scdn.co/640/ab67616d00001e020b44762f193211639101adacab67616d00001e024037d0976dffc77187142ea5ab67616d00001e0291e3b731f3c25b611176e034ab67616d00001e02d658e9f76d8afde9cf05a4eb",
-          "width": 640
-        },
-        {
-          "height": 300,
-          "url": "https://mosaic.scdn.co/300/ab67616d00001e020b44762f193211639101adacab67616d00001e024037d0976dffc77187142ea5ab67616d00001e0291e3b731f3c25b611176e034ab67616d00001e02d658e9f76d8afde9cf05a4eb",
-          "width": 300
-        },
-        {
-          "height": 60,
-          "url": "https://mosaic.scdn.co/60/ab67616d00001e020b44762f193211639101adacab67616d00001e024037d0976dffc77187142ea5ab67616d00001e0291e3b731f3c25b611176e034ab67616d00001e02d658e9f76d8afde9cf05a4eb",
-          "width": 60
-        }
-      ],
-      "owner": "WaSaNo"
-    },
-    {
       "id": "3bonXrVIQYBt47Dl3qpm7d",
       "name": "赤西仁 2023",
       "description": "",
@@ -4641,6 +4616,31 @@
         }
       ],
       "owner": "ake.2.26.jun.9.17"
+    },
+    {
+      "id": "5WavizZdpsmOMa9JiYnqpG",
+      "name": "山下智久",
+      "description": "",
+      "followers": 0,
+      "tracks_total": 18,
+      "images": [
+        {
+          "height": 640,
+          "url": "https://mosaic.scdn.co/640/ab67616d00001e020b44762f193211639101adacab67616d00001e024037d0976dffc77187142ea5ab67616d00001e0291e3b731f3c25b611176e034ab67616d00001e02d658e9f76d8afde9cf05a4eb",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://mosaic.scdn.co/300/ab67616d00001e020b44762f193211639101adacab67616d00001e024037d0976dffc77187142ea5ab67616d00001e0291e3b731f3c25b611176e034ab67616d00001e02d658e9f76d8afde9cf05a4eb",
+          "width": 300
+        },
+        {
+          "height": 60,
+          "url": "https://mosaic.scdn.co/60/ab67616d00001e020b44762f193211639101adacab67616d00001e024037d0976dffc77187142ea5ab67616d00001e0291e3b731f3c25b611176e034ab67616d00001e02d658e9f76d8afde9cf05a4eb",
+          "width": 60
+        }
+      ],
+      "owner": "WaSaNo"
     },
     {
       "id": "0ISHAK5rltx5Vc2RcvQhBr",
@@ -4676,26 +4676,11 @@
       "images": [
         {
           "height": null,
-          "url": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000d72c3671664c77eddf7349528c3b",
+          "url": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000da843671664c77eddf7349528c3b",
           "width": null
         }
       ],
       "owner": "BOSS"
-    },
-    {
-      "id": "3E8mVB72GuIHwVdmX2xtZh",
-      "name": "秦基博　シングルベスト",
-      "description": "",
-      "followers": 0,
-      "tracks_total": 50,
-      "images": [
-        {
-          "height": null,
-          "url": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000d72c62ff9196fa726c65e8763e7b",
-          "width": null
-        }
-      ],
-      "owner": "teto"
     },
     {
       "id": "3UmlsLgEGLpKI9p2AMBRCM",
@@ -4778,29 +4763,29 @@
       "owner": "うらちゃん"
     },
     {
-      "id": "5mApB50mu9jEtKQm45cxxu",
-      "name": "今井美樹シングルベスト",
+      "id": "0Hdb0odRuJ9vqD7EveafCo",
+      "name": "小泉今日子シングル集",
       "description": "",
       "followers": 0,
-      "tracks_total": 29,
+      "tracks_total": 19,
       "images": [
         {
           "height": 640,
-          "url": "https://mosaic.scdn.co/640/ab67616d00001e0202cedc46f1e40db4ae2e747dab67616d00001e0294df6e78971d131bf605b455ab67616d00001e02a5d51575a8c668905dc055e2ab67616d00001e02bc96594d259173ca854e0ba1",
+          "url": "https://mosaic.scdn.co/640/ab67616d00001e0213e919bb2c41c08b25430b34ab67616d00001e02d738ac9b8eb9136a75205abdab67616d00001e02d892119d829cfa9776670e71ab67616d00001e02e2d1989c6e89fea65f103cc6",
           "width": 640
         },
         {
           "height": 300,
-          "url": "https://mosaic.scdn.co/300/ab67616d00001e0202cedc46f1e40db4ae2e747dab67616d00001e0294df6e78971d131bf605b455ab67616d00001e02a5d51575a8c668905dc055e2ab67616d00001e02bc96594d259173ca854e0ba1",
+          "url": "https://mosaic.scdn.co/300/ab67616d00001e0213e919bb2c41c08b25430b34ab67616d00001e02d738ac9b8eb9136a75205abdab67616d00001e02d892119d829cfa9776670e71ab67616d00001e02e2d1989c6e89fea65f103cc6",
           "width": 300
         },
         {
           "height": 60,
-          "url": "https://mosaic.scdn.co/60/ab67616d00001e0202cedc46f1e40db4ae2e747dab67616d00001e0294df6e78971d131bf605b455ab67616d00001e02a5d51575a8c668905dc055e2ab67616d00001e02bc96594d259173ca854e0ba1",
+          "url": "https://mosaic.scdn.co/60/ab67616d00001e0213e919bb2c41c08b25430b34ab67616d00001e02d738ac9b8eb9136a75205abdab67616d00001e02d892119d829cfa9776670e71ab67616d00001e02e2d1989c6e89fea65f103cc6",
           "width": 60
         }
       ],
-      "owner": "まっきー"
+      "owner": "西田寛"
     },
     {
       "id": "07ByVZIZJGJcpnic6k63Qs",
