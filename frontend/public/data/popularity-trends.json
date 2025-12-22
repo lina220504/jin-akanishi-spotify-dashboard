@@ -1,9 +1,9 @@
 {
-  "lastUpdated": "2025-12-15T03:51:16.483Z",
-  "dataPoints": 2,
+  "lastUpdated": "2025-12-22T01:48:26.414Z",
+  "dataPoints": 5,
   "dateRange": {
     "start": "2025-12-12",
-    "end": "2025-12-15"
+    "end": "2025-12-22"
   },
   "artistPopularity": [
     {
@@ -14,9 +14,27 @@
     },
     {
       "date": "2025-12-15",
-      "timestamp": "2025-12-15T03:51:16.466Z",
+      "timestamp": "2025-12-15T06:49:29.109Z",
       "popularity": 43,
-      "followers": 94220
+      "followers": 94243
+    },
+    {
+      "date": "2025-12-16",
+      "timestamp": "2025-12-16T04:12:09.427Z",
+      "popularity": 43,
+      "followers": 94243
+    },
+    {
+      "date": "2025-12-17",
+      "timestamp": "2025-12-17T06:31:58.554Z",
+      "popularity": 43,
+      "followers": 94266
+    },
+    {
+      "date": "2025-12-22",
+      "timestamp": "2025-12-22T01:48:26.395Z",
+      "popularity": 43,
+      "followers": 94319
     }
   ],
   "trackPopularity": [
@@ -32,6 +50,18 @@
         },
         {
           "date": "2025-12-15",
+          "popularity": 49
+        },
+        {
+          "date": "2025-12-16",
+          "popularity": 49
+        },
+        {
+          "date": "2025-12-17",
+          "popularity": 49
+        },
+        {
+          "date": "2025-12-22",
           "popularity": 49
         }
       ]
@@ -49,6 +79,18 @@
         {
           "date": "2025-12-15",
           "popularity": 47
+        },
+        {
+          "date": "2025-12-16",
+          "popularity": 47
+        },
+        {
+          "date": "2025-12-17",
+          "popularity": 47
+        },
+        {
+          "date": "2025-12-22",
+          "popularity": 47
         }
       ]
     },
@@ -65,6 +107,18 @@
         {
           "date": "2025-12-15",
           "popularity": 40
+        },
+        {
+          "date": "2025-12-16",
+          "popularity": 39
+        },
+        {
+          "date": "2025-12-17",
+          "popularity": 40
+        },
+        {
+          "date": "2025-12-22",
+          "popularity": 39
         }
       ]
     },
@@ -81,6 +135,18 @@
         {
           "date": "2025-12-15",
           "popularity": 39
+        },
+        {
+          "date": "2025-12-16",
+          "popularity": 39
+        },
+        {
+          "date": "2025-12-17",
+          "popularity": 39
+        },
+        {
+          "date": "2025-12-22",
+          "popularity": 38
         }
       ]
     },
@@ -96,6 +162,18 @@
         },
         {
           "date": "2025-12-15",
+          "popularity": 37
+        },
+        {
+          "date": "2025-12-16",
+          "popularity": 37
+        },
+        {
+          "date": "2025-12-17",
+          "popularity": 37
+        },
+        {
+          "date": "2025-12-22",
           "popularity": 37
         }
       ]
@@ -113,6 +191,18 @@
         {
           "date": "2025-12-15",
           "popularity": 36
+        },
+        {
+          "date": "2025-12-16",
+          "popularity": 36
+        },
+        {
+          "date": "2025-12-17",
+          "popularity": 36
+        },
+        {
+          "date": "2025-12-22",
+          "popularity": 36
         }
       ]
     },
@@ -128,6 +218,18 @@
         },
         {
           "date": "2025-12-15",
+          "popularity": 35
+        },
+        {
+          "date": "2025-12-16",
+          "popularity": 35
+        },
+        {
+          "date": "2025-12-17",
+          "popularity": 35
+        },
+        {
+          "date": "2025-12-22",
           "popularity": 35
         }
       ]
@@ -145,6 +247,18 @@
         {
           "date": "2025-12-15",
           "popularity": 32
+        },
+        {
+          "date": "2025-12-16",
+          "popularity": 32
+        },
+        {
+          "date": "2025-12-17",
+          "popularity": 32
+        },
+        {
+          "date": "2025-12-22",
+          "popularity": 32
         }
       ]
     },
@@ -160,6 +274,18 @@
         },
         {
           "date": "2025-12-15",
+          "popularity": 31
+        },
+        {
+          "date": "2025-12-16",
+          "popularity": 31
+        },
+        {
+          "date": "2025-12-17",
+          "popularity": 31
+        },
+        {
+          "date": "2025-12-22",
           "popularity": 31
         }
       ]
@@ -177,6 +303,18 @@
         {
           "date": "2025-12-15",
           "popularity": 32
+        },
+        {
+          "date": "2025-12-16",
+          "popularity": 32
+        },
+        {
+          "date": "2025-12-17",
+          "popularity": 32
+        },
+        {
+          "date": "2025-12-22",
+          "popularity": 31
         }
       ]
     }
