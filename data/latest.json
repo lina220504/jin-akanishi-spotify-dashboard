@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-02-02T02:11:08.403Z",
+  "lastUpdated": "2026-02-02T02:31:53.245Z",
   "artist": {
     "id": "5gSFxPK5Te7WRIKL5CEWos",
     "name": "Jin Akanishi",
@@ -4038,36 +4038,6 @@
       "owner": "もりげ"
     },
     {
-      "id": "50Hlp5pKG1BkJoPViQxkdv",
-      "name": "KATｰTUN全曲",
-      "description": "💗💙💜現在配信されているKAT-TUN全曲配信順💗💙💜We are KAT−TUN！",
-      "followers": 0,
-      "tracks_total": 58,
-      "images": [
-        {
-          "height": null,
-          "url": "https://image-cdn-fa.spotifycdn.com/image/ab67706c0000d72c89b8123a141f0660706c8532",
-          "width": null
-        }
-      ],
-      "owner": "Asuka"
-    },
-    {
-      "id": "3NW90VcaJtw8TIWB9vKK3U",
-      "name": "赤西仁/錦戸亮",
-      "description": "",
-      "followers": 0,
-      "tracks_total": 27,
-      "images": [
-        {
-          "height": null,
-          "url": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000da84491857f0d662d9002ee591c2",
-          "width": null
-        }
-      ],
-      "owner": "Chocolate-.rina"
-    },
-    {
       "id": "3lGMLTBwgB5IPovfiWqUH0",
       "name": "ムラサキ赤西仁",
       "description": "",
@@ -4091,6 +4061,36 @@
         }
       ],
       "owner": "marin"
+    },
+    {
+      "id": "50Hlp5pKG1BkJoPViQxkdv",
+      "name": "KATｰTUN全曲",
+      "description": "💗💙💜現在配信されているKAT-TUN全曲配信順💗💙💜We are KAT−TUN！",
+      "followers": 0,
+      "tracks_total": 58,
+      "images": [
+        {
+          "height": null,
+          "url": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000da8489b8123a141f0660706c8532",
+          "width": null
+        }
+      ],
+      "owner": "Asuka"
+    },
+    {
+      "id": "3NW90VcaJtw8TIWB9vKK3U",
+      "name": "赤西仁/錦戸亮",
+      "description": "",
+      "followers": 0,
+      "tracks_total": 27,
+      "images": [
+        {
+          "height": null,
+          "url": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000da84491857f0d662d9002ee591c2",
+          "width": null
+        }
+      ],
+      "owner": "Chocolate-.rina"
     },
     {
       "id": "65nFiYvcwwhPSNXEe17v9U",
@@ -4166,7 +4166,7 @@
       "images": [
         {
           "height": null,
-          "url": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000da84481fdb13b61feb360a4b38fc",
+          "url": "https://image-cdn-fa.spotifycdn.com/image/ab67706c0000da84481fdb13b61feb360a4b38fc",
           "width": null
         }
       ],
@@ -4381,7 +4381,7 @@
       "images": [
         {
           "height": null,
-          "url": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000da844a2be9d6f8c094bd6dddca92",
+          "url": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000d72c4a2be9d6f8c094bd6dddca92",
           "width": null
         }
       ],
@@ -4731,7 +4731,7 @@
       "images": [
         {
           "height": null,
-          "url": "https://image-cdn-fa.spotifycdn.com/image/ab67706c0000da8462ff9196fa726c65e8763e7b",
+          "url": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000da8462ff9196fa726c65e8763e7b",
           "width": null
         }
       ],
