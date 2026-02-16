@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-02-16T02:10:36.820Z",
+  "lastUpdated": "2026-02-16T02:30:55.967Z",
   "artist": {
     "id": "5gSFxPK5Te7WRIKL5CEWos",
     "name": "Jin Akanishi",
@@ -4063,6 +4063,31 @@
       "owner": "marin"
     },
     {
+      "id": "2gQzGTOoeQVJhAewtlgZFE",
+      "name": "赤西仁",
+      "description": "",
+      "followers": 0,
+      "tracks_total": 120,
+      "images": [
+        {
+          "height": 640,
+          "url": "https://mosaic.scdn.co/640/ab67616d00001e0255bd6e9392ab4fa283d7e029ab67616d00001e025701d3f819314c0100251f19ab67616d00001e025a0a13dd86d17f2dcd4013aaab67616d00001e028f4e78db6af0d04a60cf0f7c",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://mosaic.scdn.co/300/ab67616d00001e0255bd6e9392ab4fa283d7e029ab67616d00001e025701d3f819314c0100251f19ab67616d00001e025a0a13dd86d17f2dcd4013aaab67616d00001e028f4e78db6af0d04a60cf0f7c",
+          "width": 300
+        },
+        {
+          "height": 60,
+          "url": "https://mosaic.scdn.co/60/ab67616d00001e0255bd6e9392ab4fa283d7e029ab67616d00001e025701d3f819314c0100251f19ab67616d00001e025a0a13dd86d17f2dcd4013aaab67616d00001e028f4e78db6af0d04a60cf0f7c",
+          "width": 60
+        }
+      ],
+      "owner": "あゆみ"
+    },
+    {
       "id": "50Hlp5pKG1BkJoPViQxkdv",
       "name": "KATｰTUN全曲",
       "description": "💗💙💜現在配信されているKAT-TUN全曲配信順💗💙💜We are KAT−TUN！",
@@ -4071,7 +4096,7 @@
       "images": [
         {
           "height": null,
-          "url": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000d72c89b8123a141f0660706c8532",
+          "url": "https://image-cdn-fa.spotifycdn.com/image/ab67706c0000da8489b8123a141f0660706c8532",
           "width": null
         }
       ],
@@ -4086,7 +4111,7 @@
       "images": [
         {
           "height": null,
-          "url": "https://image-cdn-fa.spotifycdn.com/image/ab67706c0000da84491857f0d662d9002ee591c2",
+          "url": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000da84491857f0d662d9002ee591c2",
           "width": null
         }
       ],
@@ -4101,7 +4126,7 @@
       "images": [
         {
           "height": null,
-          "url": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000d72c8f2e0b2c77d938b9742ea176",
+          "url": "https://image-cdn-fa.spotifycdn.com/image/ab67706c0000da848f2e0b2c77d938b9742ea176",
           "width": null
         }
       ],
@@ -4146,31 +4171,6 @@
         }
       ],
       "owner": "yu han su"
-    },
-    {
-      "id": "2gQzGTOoeQVJhAewtlgZFE",
-      "name": "赤西仁",
-      "description": "",
-      "followers": 0,
-      "tracks_total": 120,
-      "images": [
-        {
-          "height": 640,
-          "url": "https://mosaic.scdn.co/640/ab67616d00001e0255bd6e9392ab4fa283d7e029ab67616d00001e025701d3f819314c0100251f19ab67616d00001e025a0a13dd86d17f2dcd4013aaab67616d00001e028f4e78db6af0d04a60cf0f7c",
-          "width": 640
-        },
-        {
-          "height": 300,
-          "url": "https://mosaic.scdn.co/300/ab67616d00001e0255bd6e9392ab4fa283d7e029ab67616d00001e025701d3f819314c0100251f19ab67616d00001e025a0a13dd86d17f2dcd4013aaab67616d00001e028f4e78db6af0d04a60cf0f7c",
-          "width": 300
-        },
-        {
-          "height": 60,
-          "url": "https://mosaic.scdn.co/60/ab67616d00001e0255bd6e9392ab4fa283d7e029ab67616d00001e025701d3f819314c0100251f19ab67616d00001e025a0a13dd86d17f2dcd4013aaab67616d00001e028f4e78db6af0d04a60cf0f7c",
-          "width": 60
-        }
-      ],
-      "owner": "あゆみ"
     },
     {
       "id": "1nnLS6lFbBlT8sVcNjKDaq",
@@ -4281,7 +4281,7 @@
       "images": [
         {
           "height": null,
-          "url": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000da8445bf9ea06ba0b3d68b205105",
+          "url": "https://image-cdn-fa.spotifycdn.com/image/ab67706c0000da8445bf9ea06ba0b3d68b205105",
           "width": null
         }
       ],
@@ -4501,7 +4501,7 @@
       "images": [
         {
           "height": null,
-          "url": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000d72c481fdb13b61feb360a4b38fc",
+          "url": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000da84481fdb13b61feb360a4b38fc",
           "width": null
         }
       ],
@@ -4516,7 +4516,7 @@
       "images": [
         {
           "height": null,
-          "url": "https://image-cdn-fa.spotifycdn.com/image/ab67706c0000da84a61b29385ed99ab4be48b4e7",
+          "url": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000da84a61b29385ed99ab4be48b4e7",
           "width": null
         }
       ],
@@ -4546,6 +4546,31 @@
         }
       ],
       "owner": "Yuma"
+    },
+    {
+      "id": "2qwvn9KXLOXsngx9wyu8pM",
+      "name": "中島健人＆赤西仁",
+      "description": "",
+      "followers": 0,
+      "tracks_total": 98,
+      "images": [
+        {
+          "height": 640,
+          "url": "https://mosaic.scdn.co/640/ab67616d00001e02047d01f1894ea985febc61b4ab67616d00001e02129507e9029e993c8171b10aab67616d00001e02161c84388f3d47c803d6716cab67616d00001e02c4a9940d667cf1091114a6ef",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://mosaic.scdn.co/300/ab67616d00001e02047d01f1894ea985febc61b4ab67616d00001e02129507e9029e993c8171b10aab67616d00001e02161c84388f3d47c803d6716cab67616d00001e02c4a9940d667cf1091114a6ef",
+          "width": 300
+        },
+        {
+          "height": 60,
+          "url": "https://mosaic.scdn.co/60/ab67616d00001e02047d01f1894ea985febc61b4ab67616d00001e02129507e9029e993c8171b10aab67616d00001e02161c84388f3d47c803d6716cab67616d00001e02c4a9940d667cf1091114a6ef",
+          "width": 60
+        }
+      ],
+      "owner": "健人"
     },
     {
       "id": "1zNTNojSweBVFystv32JFj",
@@ -4656,7 +4681,7 @@
       "images": [
         {
           "height": null,
-          "url": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000da8462ff9196fa726c65e8763e7b",
+          "url": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000d72c62ff9196fa726c65e8763e7b",
           "width": null
         }
       ],
@@ -4686,7 +4711,7 @@
       "images": [
         {
           "height": null,
-          "url": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000d72c82bf7a68c827193f44492924",
+          "url": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000da8482bf7a68c827193f44492924",
           "width": null
         }
       ],
@@ -4706,31 +4731,6 @@
         }
       ],
       "owner": "midori"
-    },
-    {
-      "id": "0zvQvodHwgXaAShzyhDHkQ",
-      "name": "米津玄師　ベストアルバム",
-      "description": "",
-      "followers": 0,
-      "tracks_total": 30,
-      "images": [
-        {
-          "height": 640,
-          "url": "https://mosaic.scdn.co/640/ab67616d00001e022277b55a0cb3f359c4388de9ab67616d00001e024f220d17ad81c943221ce335ab67616d00001e02efb3ecf27f710c9231f2346fab67616d00001e02f840731c1b6e8d1843f9e101",
-          "width": 640
-        },
-        {
-          "height": 300,
-          "url": "https://mosaic.scdn.co/300/ab67616d00001e022277b55a0cb3f359c4388de9ab67616d00001e024f220d17ad81c943221ce335ab67616d00001e02efb3ecf27f710c9231f2346fab67616d00001e02f840731c1b6e8d1843f9e101",
-          "width": 300
-        },
-        {
-          "height": 60,
-          "url": "https://mosaic.scdn.co/60/ab67616d00001e022277b55a0cb3f359c4388de9ab67616d00001e024f220d17ad81c943221ce335ab67616d00001e02efb3ecf27f710c9231f2346fab67616d00001e02f840731c1b6e8d1843f9e101",
-          "width": 60
-        }
-      ],
-      "owner": "うらちゃん"
     },
     {
       "id": "5mApB50mu9jEtKQm45cxxu",
@@ -4766,7 +4766,7 @@
       "images": [
         {
           "height": null,
-          "url": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000d72c071569e96aa23af1ec93accd",
+          "url": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000da84071569e96aa23af1ec93accd",
           "width": null
         }
       ],
@@ -4796,31 +4796,6 @@
         }
       ],
       "owner": "Daigo"
-    },
-    {
-      "id": "55zlzXv6sMZuYWLlkPjVy2",
-      "name": "大森靖子 全曲",
-      "description": "",
-      "followers": 0,
-      "tracks_total": 240,
-      "images": [
-        {
-          "height": 640,
-          "url": "https://mosaic.scdn.co/640/ab67616d00001e0295d7a97ab1ffc133a49700d0ab67616d00001e0296854866f6f8b27f6416417eab67616d00001e02973377a2c0969e98d3fe637bab67616d00001e02b1789f73bfd0fec220b0565b",
-          "width": 640
-        },
-        {
-          "height": 300,
-          "url": "https://mosaic.scdn.co/300/ab67616d00001e0295d7a97ab1ffc133a49700d0ab67616d00001e0296854866f6f8b27f6416417eab67616d00001e02973377a2c0969e98d3fe637bab67616d00001e02b1789f73bfd0fec220b0565b",
-          "width": 300
-        },
-        {
-          "height": 60,
-          "url": "https://mosaic.scdn.co/60/ab67616d00001e0295d7a97ab1ffc133a49700d0ab67616d00001e0296854866f6f8b27f6416417eab67616d00001e02973377a2c0969e98d3fe637bab67616d00001e02b1789f73bfd0fec220b0565b",
-          "width": 60
-        }
-      ],
-      "owner": "りお"
     }
   ]
 }
