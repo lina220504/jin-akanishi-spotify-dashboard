@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-02-23T02:11:07.596Z",
+  "lastUpdated": "2026-02-23T02:31:04.408Z",
   "artist": {
     "id": "5gSFxPK5Te7WRIKL5CEWos",
     "name": "Jin Akanishi",
@@ -4126,7 +4126,7 @@
       "images": [
         {
           "height": null,
-          "url": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000d72c45bf9ea06ba0b3d68b205105",
+          "url": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000da8445bf9ea06ba0b3d68b205105",
           "width": null
         }
       ],
@@ -4181,7 +4181,7 @@
       "images": [
         {
           "height": null,
-          "url": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000d72c491857f0d662d9002ee591c2",
+          "url": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000da84491857f0d662d9002ee591c2",
           "width": null
         }
       ],
@@ -4723,31 +4723,6 @@
       "owner": "まっきー"
     },
     {
-      "id": "3JPJGyYTShJMujJjZm9A4w",
-      "name": "八神純子ベスト",
-      "description": "",
-      "followers": 0,
-      "tracks_total": 7,
-      "images": [
-        {
-          "height": 640,
-          "url": "https://mosaic.scdn.co/640/ab67616d00001e0223fdb272130eeb201018cb1bab67616d00001e0231f9c78ab19fffeb3b0b038dab67616d00001e02ae0c4da2cee49060a4215e5eab67616d00001e02b90dba948fc086f8c45a267e",
-          "width": 640
-        },
-        {
-          "height": 300,
-          "url": "https://mosaic.scdn.co/300/ab67616d00001e0223fdb272130eeb201018cb1bab67616d00001e0231f9c78ab19fffeb3b0b038dab67616d00001e02ae0c4da2cee49060a4215e5eab67616d00001e02b90dba948fc086f8c45a267e",
-          "width": 300
-        },
-        {
-          "height": 60,
-          "url": "https://mosaic.scdn.co/60/ab67616d00001e0223fdb272130eeb201018cb1bab67616d00001e0231f9c78ab19fffeb3b0b038dab67616d00001e02ae0c4da2cee49060a4215e5eab67616d00001e02b90dba948fc086f8c45a267e",
-          "width": 60
-        }
-      ],
-      "owner": "poko_chan"
-    },
-    {
       "id": "6GkK3MATaKn5IFrbpxym3l",
       "name": "吉幾三〜ベストセレクション〜",
       "description": "雪国🎤酒よ🎤酔歌ほか",
@@ -4786,7 +4761,7 @@
       "images": [
         {
           "height": null,
-          "url": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000d72c82bf7a68c827193f44492924",
+          "url": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000da8482bf7a68c827193f44492924",
           "width": null
         }
       ],
