@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-03-02T02:07:59.985Z",
+  "lastUpdated": "2026-03-02T02:26:31.025Z",
   "artist": {
     "id": "5gSFxPK5Te7WRIKL5CEWos",
     "name": "Jin Akanishi",
@@ -4046,7 +4046,7 @@
       "images": [
         {
           "height": null,
-          "url": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000d72c8f2e0b2c77d938b9742ea176",
+          "url": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000da848f2e0b2c77d938b9742ea176",
           "width": null
         }
       ],
@@ -4126,7 +4126,7 @@
       "images": [
         {
           "height": null,
-          "url": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000d72c89b8123a141f0660706c8532",
+          "url": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000da8489b8123a141f0660706c8532",
           "width": null
         }
       ],
@@ -4166,7 +4166,7 @@
       "images": [
         {
           "height": null,
-          "url": "https://image-cdn-fa.spotifycdn.com/image/ab67706c0000d72c491857f0d662d9002ee591c2",
+          "url": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000da84491857f0d662d9002ee591c2",
           "width": null
         }
       ],
@@ -4181,7 +4181,7 @@
       "images": [
         {
           "height": null,
-          "url": "https://image-cdn-fa.spotifycdn.com/image/ab67706c0000da844a2be9d6f8c094bd6dddca92",
+          "url": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000da844a2be9d6f8c094bd6dddca92",
           "width": null
         }
       ],
@@ -4353,31 +4353,6 @@
       "owner": "3jxpbd0u47qmgvw4yjfx5dwt0"
     },
     {
-      "id": "7jgd7TKU14hEFc6pG8Y0Ml",
-      "name": "KAT-TUN人気曲",
-      "description": "よろしければフォローもお願いします😊",
-      "followers": 0,
-      "tracks_total": 30,
-      "images": [
-        {
-          "height": 640,
-          "url": "https://mosaic.scdn.co/640/ab67616d00001e020e4157a24002f08e1647911aab67616d00001e02534178e9a2daed862c6610a6ab67616d00001e0261b425505a72573b7822a733ab67616d00001e02625fc713238c8a996f49985a",
-          "width": 640
-        },
-        {
-          "height": 300,
-          "url": "https://mosaic.scdn.co/300/ab67616d00001e020e4157a24002f08e1647911aab67616d00001e02534178e9a2daed862c6610a6ab67616d00001e0261b425505a72573b7822a733ab67616d00001e02625fc713238c8a996f49985a",
-          "width": 300
-        },
-        {
-          "height": 60,
-          "url": "https://mosaic.scdn.co/60/ab67616d00001e020e4157a24002f08e1647911aab67616d00001e02534178e9a2daed862c6610a6ab67616d00001e0261b425505a72573b7822a733ab67616d00001e02625fc713238c8a996f49985a",
-          "width": 60
-        }
-      ],
-      "owner": "g_0419"
-    },
-    {
       "id": "6MnLIiL7QBSJwUqiXFS1gg",
       "name": "赤西仁",
       "description": "",
@@ -4401,6 +4376,31 @@
         }
       ],
       "owner": "14"
+    },
+    {
+      "id": "7jgd7TKU14hEFc6pG8Y0Ml",
+      "name": "KAT-TUN人気曲",
+      "description": "よろしければフォローもお願いします😊",
+      "followers": 0,
+      "tracks_total": 30,
+      "images": [
+        {
+          "height": 640,
+          "url": "https://mosaic.scdn.co/640/ab67616d00001e020e4157a24002f08e1647911aab67616d00001e02534178e9a2daed862c6610a6ab67616d00001e0261b425505a72573b7822a733ab67616d00001e02625fc713238c8a996f49985a",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://mosaic.scdn.co/300/ab67616d00001e020e4157a24002f08e1647911aab67616d00001e02534178e9a2daed862c6610a6ab67616d00001e0261b425505a72573b7822a733ab67616d00001e02625fc713238c8a996f49985a",
+          "width": 300
+        },
+        {
+          "height": 60,
+          "url": "https://mosaic.scdn.co/60/ab67616d00001e020e4157a24002f08e1647911aab67616d00001e02534178e9a2daed862c6610a6ab67616d00001e0261b425505a72573b7822a733ab67616d00001e02625fc713238c8a996f49985a",
+          "width": 60
+        }
+      ],
+      "owner": "g_0419"
     },
     {
       "id": "6hJkOmQvPK5eBp1cMWMwiI",
@@ -4536,36 +4536,11 @@
       "images": [
         {
           "height": null,
-          "url": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000d72c071569e96aa23af1ec93accd",
+          "url": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000da84071569e96aa23af1ec93accd",
           "width": null
         }
       ],
       "owner": "hiromtan"
-    },
-    {
-      "id": "0zvQvodHwgXaAShzyhDHkQ",
-      "name": "米津玄師　ベストアルバム",
-      "description": "",
-      "followers": 0,
-      "tracks_total": 30,
-      "images": [
-        {
-          "height": 640,
-          "url": "https://mosaic.scdn.co/640/ab67616d00001e022277b55a0cb3f359c4388de9ab67616d00001e024f220d17ad81c943221ce335ab67616d00001e02efb3ecf27f710c9231f2346fab67616d00001e02f840731c1b6e8d1843f9e101",
-          "width": 640
-        },
-        {
-          "height": 300,
-          "url": "https://mosaic.scdn.co/300/ab67616d00001e022277b55a0cb3f359c4388de9ab67616d00001e024f220d17ad81c943221ce335ab67616d00001e02efb3ecf27f710c9231f2346fab67616d00001e02f840731c1b6e8d1843f9e101",
-          "width": 300
-        },
-        {
-          "height": 60,
-          "url": "https://mosaic.scdn.co/60/ab67616d00001e022277b55a0cb3f359c4388de9ab67616d00001e024f220d17ad81c943221ce335ab67616d00001e02efb3ecf27f710c9231f2346fab67616d00001e02f840731c1b6e8d1843f9e101",
-          "width": 60
-        }
-      ],
-      "owner": "うらちゃん"
     },
     {
       "id": "3UmlsLgEGLpKI9p2AMBRCM",
@@ -4648,6 +4623,31 @@
       "owner": "teto"
     },
     {
+      "id": "1K5Za2TXZ9l3IO00CSpGCm",
+      "name": "3XL紫耀くんリスト❶mym",
+      "description": "",
+      "followers": 0,
+      "tracks_total": 29,
+      "images": [
+        {
+          "height": 640,
+          "url": "https://mosaic.scdn.co/640/ab67616d00001e02161ff58acd3e5ba5b5a3bb60ab67616d00001e024229702de91cb3d3a4383302ab67616d00001e02c0f1186fe3a9793c6c583995ab67616d00001e02d9d23298945bec4f2f2054a5",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://mosaic.scdn.co/300/ab67616d00001e02161ff58acd3e5ba5b5a3bb60ab67616d00001e024229702de91cb3d3a4383302ab67616d00001e02c0f1186fe3a9793c6c583995ab67616d00001e02d9d23298945bec4f2f2054a5",
+          "width": 300
+        },
+        {
+          "height": 60,
+          "url": "https://mosaic.scdn.co/60/ab67616d00001e02161ff58acd3e5ba5b5a3bb60ab67616d00001e024229702de91cb3d3a4383302ab67616d00001e02c0f1186fe3a9793c6c583995ab67616d00001e02d9d23298945bec4f2f2054a5",
+          "width": 60
+        }
+      ],
+      "owner": "mym"
+    },
+    {
       "id": "5DZJ0LuW3sD02JVjZ7TyUv",
       "name": "ベスト赤西仁",
       "description": "",
@@ -4656,7 +4656,7 @@
       "images": [
         {
           "height": null,
-          "url": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000da84a61b29385ed99ab4be48b4e7",
+          "url": "https://image-cdn-fa.spotifycdn.com/image/ab67706c0000da84a61b29385ed99ab4be48b4e7",
           "width": null
         }
       ],
