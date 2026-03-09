@@ -1214,6 +1214,87 @@
           "releaseDate": "2020-04-22"
         }
       ]
+    },
+    {
+      "timestamp": "2026-03-09T02:09:21.047Z",
+      "date": "2026-03-09",
+      "artist": {
+        "name": "Jin Akanishi",
+        "popularity": 38,
+        "followers": 95439
+      },
+      "topTracks": [
+        {
+          "id": "3VJccANqkXGawjSaRfl4bb",
+          "name": "ムラサキ",
+          "popularity": 46,
+          "album": "OUR BEST - YOUR BEST",
+          "releaseDate": "2020-04-22"
+        },
+        {
+          "id": "3pPKgREHKngbOpmQF94yEf",
+          "name": "Eternal",
+          "popularity": 45,
+          "album": "OUR BEST - YOUR BEST",
+          "releaseDate": "2020-04-22"
+        },
+        {
+          "id": "2pms1TAcs1IWRgBCH60Y4e",
+          "name": "Baby",
+          "popularity": 36,
+          "album": "Me",
+          "releaseDate": "2015-06-24"
+        },
+        {
+          "id": "2SsJ6Oz2ZPrgz7RjvOKZLO",
+          "name": "Care",
+          "popularity": 34,
+          "album": "OUR BEST - YOUR BEST",
+          "releaseDate": "2020-04-22"
+        },
+        {
+          "id": "6Oje95P9YoTtGM0nw7pC6M",
+          "name": "Let Me Talk To U",
+          "popularity": 32,
+          "album": "Me",
+          "releaseDate": "2015-06-24"
+        },
+        {
+          "id": "73zHmM1mTjEA2ZX96TOzkO",
+          "name": "Love Song",
+          "popularity": 32,
+          "album": "OUR BEST - YOUR BEST",
+          "releaseDate": "2020-04-22"
+        },
+        {
+          "id": "2stX1216pKxP8f71KRlCMG",
+          "name": "Hey What’s Up?",
+          "popularity": 31,
+          "album": "OUR BEST - YOUR BEST",
+          "releaseDate": "2020-04-22"
+        },
+        {
+          "id": "4zA11R5cLsreV42BSzszcQ",
+          "name": "Good Time",
+          "popularity": 28,
+          "album": "Me",
+          "releaseDate": "2015-06-24"
+        },
+        {
+          "id": "3EUKK3l91NJoJL7ml3EmXa",
+          "name": "Summer Kinda Love",
+          "popularity": 28,
+          "album": "Audio Fashion",
+          "releaseDate": "2016-06-22"
+        },
+        {
+          "id": "0UqpSch8OnnLOYDYfvJnyZ",
+          "name": "アイナルホウエ",
+          "popularity": 28,
+          "album": "OUR BEST - YOUR BEST",
+          "releaseDate": "2020-04-22"
+        }
+      ]
     }
   ]
 }
