@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-03-09T02:09:20.356Z",
+  "lastUpdated": "2026-03-09T02:29:22.371Z",
   "artist": {
     "id": "5gSFxPK5Te7WRIKL5CEWos",
     "name": "Jin Akanishi",
@@ -4728,6 +4728,21 @@
       "owner": "ka-ci1967"
     },
     {
+      "id": "6GkK3MATaKn5IFrbpxym3l",
+      "name": "吉幾三〜ベストセレクション〜",
+      "description": "雪国🎤酒よ🎤酔歌ほか",
+      "followers": 0,
+      "tracks_total": 56,
+      "images": [
+        {
+          "height": null,
+          "url": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000da846eafb141bed1daf191a237da",
+          "width": null
+        }
+      ],
+      "owner": "Kazu"
+    },
+    {
       "id": "4iaXeAxrgEkKEgggqi1KD5",
       "name": "ジャニーズ（King & Prince   Number _i  なにわ男子、赤西仁）",
       "description": "",
@@ -4766,31 +4781,6 @@
         }
       ],
       "owner": "midori"
-    },
-    {
-      "id": "55zlzXv6sMZuYWLlkPjVy2",
-      "name": "大森靖子 全曲",
-      "description": "",
-      "followers": 0,
-      "tracks_total": 240,
-      "images": [
-        {
-          "height": 640,
-          "url": "https://mosaic.scdn.co/640/ab67616d00001e0295d7a97ab1ffc133a49700d0ab67616d00001e0296854866f6f8b27f6416417eab67616d00001e02973377a2c0969e98d3fe637bab67616d00001e02b1789f73bfd0fec220b0565b",
-          "width": 640
-        },
-        {
-          "height": 300,
-          "url": "https://mosaic.scdn.co/300/ab67616d00001e0295d7a97ab1ffc133a49700d0ab67616d00001e0296854866f6f8b27f6416417eab67616d00001e02973377a2c0969e98d3fe637bab67616d00001e02b1789f73bfd0fec220b0565b",
-          "width": 300
-        },
-        {
-          "height": 60,
-          "url": "https://mosaic.scdn.co/60/ab67616d00001e0295d7a97ab1ffc133a49700d0ab67616d00001e0296854866f6f8b27f6416417eab67616d00001e02973377a2c0969e98d3fe637bab67616d00001e02b1789f73bfd0fec220b0565b",
-          "width": 60
-        }
-      ],
-      "owner": "りお"
     },
     {
       "id": "7LadXQyLLtB4j0FsuP73Yk",
