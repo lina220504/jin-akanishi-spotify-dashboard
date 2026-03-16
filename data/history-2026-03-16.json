@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-03-16T02:29:07.259Z",
+  "lastUpdated": "2026-03-16T02:42:23.912Z",
   "artist": {
     "id": "5gSFxPK5Te7WRIKL5CEWos",
     "name": "Jin Akanishi",
@@ -4783,31 +4783,6 @@
       "owner": "Kazu"
     },
     {
-      "id": "3JPJGyYTShJMujJjZm9A4w",
-      "name": "八神純子ベスト",
-      "description": "",
-      "followers": 0,
-      "tracks_total": 7,
-      "images": [
-        {
-          "height": 640,
-          "url": "https://mosaic.scdn.co/640/ab67616d00001e0223fdb272130eeb201018cb1bab67616d00001e0231f9c78ab19fffeb3b0b038dab67616d00001e02ae0c4da2cee49060a4215e5eab67616d00001e02b90dba948fc086f8c45a267e",
-          "width": 640
-        },
-        {
-          "height": 300,
-          "url": "https://mosaic.scdn.co/300/ab67616d00001e0223fdb272130eeb201018cb1bab67616d00001e0231f9c78ab19fffeb3b0b038dab67616d00001e02ae0c4da2cee49060a4215e5eab67616d00001e02b90dba948fc086f8c45a267e",
-          "width": 300
-        },
-        {
-          "height": 60,
-          "url": "https://mosaic.scdn.co/60/ab67616d00001e0223fdb272130eeb201018cb1bab67616d00001e0231f9c78ab19fffeb3b0b038dab67616d00001e02ae0c4da2cee49060a4215e5eab67616d00001e02b90dba948fc086f8c45a267e",
-          "width": 60
-        }
-      ],
-      "owner": "poko_chan"
-    },
-    {
       "id": "60UPTijEafr7GbhGcYkeNF",
       "name": "桂銀淑　ベスト・セレクション",
       "description": "",
@@ -4821,6 +4796,31 @@
         }
       ],
       "owner": "midori"
+    },
+    {
+      "id": "55zlzXv6sMZuYWLlkPjVy2",
+      "name": "大森靖子 全曲",
+      "description": "",
+      "followers": 0,
+      "tracks_total": 240,
+      "images": [
+        {
+          "height": 640,
+          "url": "https://mosaic.scdn.co/640/ab67616d00001e0295d7a97ab1ffc133a49700d0ab67616d00001e0296854866f6f8b27f6416417eab67616d00001e02973377a2c0969e98d3fe637bab67616d00001e02b1789f73bfd0fec220b0565b",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://mosaic.scdn.co/300/ab67616d00001e0295d7a97ab1ffc133a49700d0ab67616d00001e0296854866f6f8b27f6416417eab67616d00001e02973377a2c0969e98d3fe637bab67616d00001e02b1789f73bfd0fec220b0565b",
+          "width": 300
+        },
+        {
+          "height": 60,
+          "url": "https://mosaic.scdn.co/60/ab67616d00001e0295d7a97ab1ffc133a49700d0ab67616d00001e0296854866f6f8b27f6416417eab67616d00001e02973377a2c0969e98d3fe637bab67616d00001e02b1789f73bfd0fec220b0565b",
+          "width": 60
+        }
+      ],
+      "owner": "りお"
     },
     {
       "id": "1bYICc1kL3Tkl4C5JNNICZ",
