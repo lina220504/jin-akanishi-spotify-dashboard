@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-03-30T02:32:34.464Z",
+  "lastUpdated": "2026-03-30T02:46:55.652Z",
   "artist": {
     "id": "5gSFxPK5Te7WRIKL5CEWos",
     "name": "Jin Akanishi",
@@ -4223,6 +4223,31 @@
       "owner": "g_0419"
     },
     {
+      "id": "1jHN5Cz9eB8udTYGjuUW1F",
+      "name": "KAT-TUN 6人曲(赤西仁参加曲)リリース順",
+      "description": "KAT-TUNの6人曲リリース順です🏴‍☠️シングル化されているものはアルバムから抜いて重複ないようにしています🎶",
+      "followers": 0,
+      "tracks_total": 62,
+      "images": [
+        {
+          "height": 640,
+          "url": "https://mosaic.scdn.co/640/ab67616d00001e020a4cb089d28b0895a6735db3ab67616d00001e024ac3fbaa3144607316cc269dab67616d00001e027b583a4730c050819179882cab67616d00001e027e36452d8710e95e3240adce",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://mosaic.scdn.co/300/ab67616d00001e020a4cb089d28b0895a6735db3ab67616d00001e024ac3fbaa3144607316cc269dab67616d00001e027b583a4730c050819179882cab67616d00001e027e36452d8710e95e3240adce",
+          "width": 300
+        },
+        {
+          "height": 60,
+          "url": "https://mosaic.scdn.co/60/ab67616d00001e020a4cb089d28b0895a6735db3ab67616d00001e024ac3fbaa3144607316cc269dab67616d00001e027b583a4730c050819179882cab67616d00001e027e36452d8710e95e3240adce",
+          "width": 60
+        }
+      ],
+      "owner": "ぷちゆう"
+    },
+    {
       "id": "3NW90VcaJtw8TIWB9vKK3U",
       "name": "赤西仁/錦戸亮",
       "description": "",
@@ -4583,46 +4608,6 @@
       "owner": "Erika Kusakabe"
     },
     {
-      "id": "0zvQvodHwgXaAShzyhDHkQ",
-      "name": "米津玄師　ベストアルバム",
-      "description": "",
-      "followers": 0,
-      "tracks_total": 30,
-      "images": [
-        {
-          "height": 640,
-          "url": "https://mosaic.scdn.co/640/ab67616d00001e022277b55a0cb3f359c4388de9ab67616d00001e024f220d17ad81c943221ce335ab67616d00001e02efb3ecf27f710c9231f2346fab67616d00001e02f840731c1b6e8d1843f9e101",
-          "width": 640
-        },
-        {
-          "height": 300,
-          "url": "https://mosaic.scdn.co/300/ab67616d00001e022277b55a0cb3f359c4388de9ab67616d00001e024f220d17ad81c943221ce335ab67616d00001e02efb3ecf27f710c9231f2346fab67616d00001e02f840731c1b6e8d1843f9e101",
-          "width": 300
-        },
-        {
-          "height": 60,
-          "url": "https://mosaic.scdn.co/60/ab67616d00001e022277b55a0cb3f359c4388de9ab67616d00001e024f220d17ad81c943221ce335ab67616d00001e02efb3ecf27f710c9231f2346fab67616d00001e02f840731c1b6e8d1843f9e101",
-          "width": 60
-        }
-      ],
-      "owner": "うらちゃん"
-    },
-    {
-      "id": "2uJQkPEnX4IwzzEXeMz8De",
-      "name": "赤西仁",
-      "description": "",
-      "followers": 0,
-      "tracks_total": 13,
-      "images": [
-        {
-          "height": null,
-          "url": "https://i.scdn.co/image/ab67616d00001e027e4e57cb4ca8ff4860b6d112",
-          "width": null
-        }
-      ],
-      "owner": "9skwilib5vgvhorblqajahccg"
-    },
-    {
       "id": "3UmlsLgEGLpKI9p2AMBRCM",
       "name": "米津玄師ベスト",
       "description": "",
@@ -4646,6 +4631,21 @@
         }
       ],
       "owner": "まちんのぱぱ"
+    },
+    {
+      "id": "2uJQkPEnX4IwzzEXeMz8De",
+      "name": "赤西仁",
+      "description": "",
+      "followers": 0,
+      "tracks_total": 13,
+      "images": [
+        {
+          "height": null,
+          "url": "https://i.scdn.co/image/ab67616d00001e027e4e57cb4ca8ff4860b6d112",
+          "width": null
+        }
+      ],
+      "owner": "9skwilib5vgvhorblqajahccg"
     },
     {
       "id": "3E8mVB72GuIHwVdmX2xtZh",
