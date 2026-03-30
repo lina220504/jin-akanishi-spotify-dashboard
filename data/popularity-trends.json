@@ -1,9 +1,9 @@
 {
-  "lastUpdated": "2026-03-23T02:34:11.572Z",
-  "dataPoints": 18,
+  "lastUpdated": "2026-03-30T02:32:34.966Z",
+  "dataPoints": 19,
   "dateRange": {
     "start": "2025-12-12",
-    "end": "2026-03-23"
+    "end": "2026-03-30"
   },
   "artistPopularity": [
     {
@@ -113,6 +113,12 @@
       "timestamp": "2026-03-23T02:34:11.555Z",
       "popularity": 38,
       "followers": 95898
+    },
+    {
+      "date": "2026-03-30",
+      "timestamp": "2026-03-30T02:32:34.948Z",
+      "popularity": 40,
+      "followers": 96580
     }
   ],
   "trackPopularity": [
@@ -193,6 +199,10 @@
         {
           "date": "2026-03-23",
           "popularity": 47
+        },
+        {
+          "date": "2026-03-30",
+          "popularity": 48
         }
       ]
     },
@@ -273,6 +283,10 @@
         {
           "date": "2026-03-23",
           "popularity": 45
+        },
+        {
+          "date": "2026-03-30",
+          "popularity": 46
         }
       ]
     },
@@ -352,6 +366,10 @@
         },
         {
           "date": "2026-03-23",
+          "popularity": 37
+        },
+        {
+          "date": "2026-03-30",
           "popularity": 37
         }
       ]
@@ -433,6 +451,10 @@
         {
           "date": "2026-03-23",
           "popularity": 35
+        },
+        {
+          "date": "2026-03-30",
+          "popularity": 37
         }
       ]
     },
@@ -513,6 +535,10 @@
         {
           "date": "2026-03-23",
           "popularity": 32
+        },
+        {
+          "date": "2026-03-30",
+          "popularity": 33
         }
       ]
     },
@@ -593,6 +619,10 @@
         {
           "date": "2026-03-23",
           "popularity": 32
+        },
+        {
+          "date": "2026-03-30",
+          "popularity": 33
         }
       ]
     },
@@ -673,6 +703,10 @@
         {
           "date": "2026-03-23",
           "popularity": 32
+        },
+        {
+          "date": "2026-03-30",
+          "popularity": 33
         }
       ]
     },
@@ -913,6 +947,42 @@
         {
           "date": "2026-03-23",
           "popularity": 29
+        }
+      ]
+    },
+    {
+      "id": "3hchk9gxfZ2VzGCUnGZyK3",
+      "name": "LOVEJUICE",
+      "album": "DON'T U EVER STOP (Special Edition)",
+      "releaseDate": "2008-05-14",
+      "history": [
+        {
+          "date": "2026-03-30",
+          "popularity": 40
+        }
+      ]
+    },
+    {
+      "id": "4XKyFsUFqlYQXHzGmiGqAq",
+      "name": "BUTTERFLY",
+      "album": "Best of KAT-TUN",
+      "releaseDate": "2006-03-22",
+      "history": [
+        {
+          "date": "2026-03-30",
+          "popularity": 39
+        }
+      ]
+    },
+    {
+      "id": "1twuzdUosPYlaydLRoHUbk",
+      "name": "care",
+      "album": "Break the Records -by you & for you-",
+      "releaseDate": "2009-04-29",
+      "history": [
+        {
+          "date": "2026-03-30",
+          "popularity": 37
         }
       ]
     }
