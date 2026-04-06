@@ -1,9 +1,9 @@
 {
-  "lastUpdated": "2026-03-30T02:32:34.966Z",
-  "dataPoints": 19,
+  "lastUpdated": "2026-04-06T02:33:22.669Z",
+  "dataPoints": 20,
   "dateRange": {
     "start": "2025-12-12",
-    "end": "2026-03-30"
+    "end": "2026-04-06"
   },
   "artistPopularity": [
     {
@@ -116,9 +116,15 @@
     },
     {
       "date": "2026-03-30",
-      "timestamp": "2026-03-30T02:32:34.948Z",
+      "timestamp": "2026-03-30T02:46:56.213Z",
       "popularity": 40,
       "followers": 96580
+    },
+    {
+      "date": "2026-04-06",
+      "timestamp": "2026-04-06T02:33:22.653Z",
+      "popularity": 41,
+      "followers": 96843
     }
   ],
   "trackPopularity": [
@@ -203,6 +209,10 @@
         {
           "date": "2026-03-30",
           "popularity": 48
+        },
+        {
+          "date": "2026-04-06",
+          "popularity": 49
         }
       ]
     },
@@ -286,6 +296,10 @@
         },
         {
           "date": "2026-03-30",
+          "popularity": 46
+        },
+        {
+          "date": "2026-04-06",
           "popularity": 46
         }
       ]
@@ -371,6 +385,10 @@
         {
           "date": "2026-03-30",
           "popularity": 37
+        },
+        {
+          "date": "2026-04-06",
+          "popularity": 38
         }
       ]
     },
@@ -454,6 +472,10 @@
         },
         {
           "date": "2026-03-30",
+          "popularity": 37
+        },
+        {
+          "date": "2026-04-06",
           "popularity": 37
         }
       ]
@@ -539,6 +561,10 @@
         {
           "date": "2026-03-30",
           "popularity": 33
+        },
+        {
+          "date": "2026-04-06",
+          "popularity": 33
         }
       ]
     },
@@ -623,6 +649,10 @@
         {
           "date": "2026-03-30",
           "popularity": 33
+        },
+        {
+          "date": "2026-04-06",
+          "popularity": 34
         }
       ]
     },
@@ -706,6 +736,10 @@
         },
         {
           "date": "2026-03-30",
+          "popularity": 33
+        },
+        {
+          "date": "2026-04-06",
           "popularity": 33
         }
       ]
@@ -959,6 +993,10 @@
         {
           "date": "2026-03-30",
           "popularity": 40
+        },
+        {
+          "date": "2026-04-06",
+          "popularity": 41
         }
       ]
     },
@@ -971,6 +1009,10 @@
         {
           "date": "2026-03-30",
           "popularity": 39
+        },
+        {
+          "date": "2026-04-06",
+          "popularity": 41
         }
       ]
     },
@@ -983,6 +1025,10 @@
         {
           "date": "2026-03-30",
           "popularity": 37
+        },
+        {
+          "date": "2026-04-06",
+          "popularity": 39
         }
       ]
     }
