@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-27T02:48:16.866Z",
+  "lastUpdated": "2026-04-27T03:24:32.655Z",
   "artist": {
     "id": "5gSFxPK5Te7WRIKL5CEWos",
     "name": "Jin Akanishi",
@@ -4046,7 +4046,7 @@
       "images": [
         {
           "height": null,
-          "url": "https://image-cdn-fa.spotifycdn.com/image/ab67706c0000da84481fdb13b61feb360a4b38fc",
+          "url": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000da84481fdb13b61feb360a4b38fc",
           "width": null
         }
       ],
@@ -4061,7 +4061,7 @@
       "images": [
         {
           "height": null,
-          "url": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000da842180a695c59a6effa37a19ce",
+          "url": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000d72c2180a695c59a6effa37a19ce",
           "width": null
         }
       ],
@@ -4296,7 +4296,7 @@
       "images": [
         {
           "height": null,
-          "url": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000d72c2b90c74727d3a8722fcc0352",
+          "url": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000da842b90c74727d3a8722fcc0352",
           "width": null
         }
       ],
@@ -4458,31 +4458,6 @@
       "owner": "ma-U-you"
     },
     {
-      "id": "74dN6tDflruNlGvqfZRXHF",
-      "name": "赤西仁",
-      "description": "",
-      "followers": 0,
-      "tracks_total": 202,
-      "images": [
-        {
-          "height": 640,
-          "url": "https://mosaic.scdn.co/640/ab67616d00001e025a0a13dd86d17f2dcd4013aaab67616d00001e028f4e78db6af0d04a60cf0f7cab67616d00001e02e2c929cf69ebd6347f1b4043ab67616d00001e02fdec3d858182b711d56c7844",
-          "width": 640
-        },
-        {
-          "height": 300,
-          "url": "https://mosaic.scdn.co/300/ab67616d00001e025a0a13dd86d17f2dcd4013aaab67616d00001e028f4e78db6af0d04a60cf0f7cab67616d00001e02e2c929cf69ebd6347f1b4043ab67616d00001e02fdec3d858182b711d56c7844",
-          "width": 300
-        },
-        {
-          "height": 60,
-          "url": "https://mosaic.scdn.co/60/ab67616d00001e025a0a13dd86d17f2dcd4013aaab67616d00001e028f4e78db6af0d04a60cf0f7cab67616d00001e02e2c929cf69ebd6347f1b4043ab67616d00001e02fdec3d858182b711d56c7844",
-          "width": 60
-        }
-      ],
-      "owner": "Erika Kusakabe"
-    },
-    {
       "id": "5uvMiDjpxDy05SwEYcbMUz",
       "name": "赤西 仁  Playlist",
       "description": "",
@@ -4506,6 +4481,31 @@
         }
       ],
       "owner": "yutayuta"
+    },
+    {
+      "id": "74dN6tDflruNlGvqfZRXHF",
+      "name": "赤西仁",
+      "description": "",
+      "followers": 0,
+      "tracks_total": 202,
+      "images": [
+        {
+          "height": 640,
+          "url": "https://mosaic.scdn.co/640/ab67616d00001e025a0a13dd86d17f2dcd4013aaab67616d00001e028f4e78db6af0d04a60cf0f7cab67616d00001e02e2c929cf69ebd6347f1b4043ab67616d00001e02fdec3d858182b711d56c7844",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://mosaic.scdn.co/300/ab67616d00001e025a0a13dd86d17f2dcd4013aaab67616d00001e028f4e78db6af0d04a60cf0f7cab67616d00001e02e2c929cf69ebd6347f1b4043ab67616d00001e02fdec3d858182b711d56c7844",
+          "width": 300
+        },
+        {
+          "height": 60,
+          "url": "https://mosaic.scdn.co/60/ab67616d00001e025a0a13dd86d17f2dcd4013aaab67616d00001e028f4e78db6af0d04a60cf0f7cab67616d00001e02e2c929cf69ebd6347f1b4043ab67616d00001e02fdec3d858182b711d56c7844",
+          "width": 60
+        }
+      ],
+      "owner": "Erika Kusakabe"
     },
     {
       "id": "0ISHAK5rltx5Vc2RcvQhBr",
@@ -4691,7 +4691,7 @@
       "images": [
         {
           "height": null,
-          "url": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000da84071569e96aa23af1ec93accd",
+          "url": "https://image-cdn-fa.spotifycdn.com/image/ab67706c0000da84071569e96aa23af1ec93accd",
           "width": null
         }
       ],
@@ -4706,7 +4706,7 @@
       "images": [
         {
           "height": null,
-          "url": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000d72c3671664c77eddf7349528c3b",
+          "url": "https://image-cdn-fa.spotifycdn.com/image/ab67706c0000d72c3671664c77eddf7349528c3b",
           "width": null
         }
       ],
@@ -4721,7 +4721,7 @@
       "images": [
         {
           "height": null,
-          "url": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000d72c62ff9196fa726c65e8763e7b",
+          "url": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000da8462ff9196fa726c65e8763e7b",
           "width": null
         }
       ],
@@ -4786,26 +4786,36 @@
       "images": [
         {
           "height": null,
-          "url": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000da8482bf7a68c827193f44492924",
+          "url": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000d72c82bf7a68c827193f44492924",
           "width": null
         }
       ],
       "owner": "ka-ci1967"
     },
     {
-      "id": "60UPTijEafr7GbhGcYkeNF",
-      "name": "桂銀淑　ベスト・セレクション",
+      "id": "55zlzXv6sMZuYWLlkPjVy2",
+      "name": "大森靖子 全曲",
       "description": "",
       "followers": 0,
-      "tracks_total": 18,
+      "tracks_total": 240,
       "images": [
         {
-          "height": null,
-          "url": "https://i.scdn.co/image/ab67616d00001e0249b3eadaaec725bd794fd058",
-          "width": null
+          "height": 640,
+          "url": "https://mosaic.scdn.co/640/ab67616d00001e0295d7a97ab1ffc133a49700d0ab67616d00001e0296854866f6f8b27f6416417eab67616d00001e02973377a2c0969e98d3fe637bab67616d00001e02b1789f73bfd0fec220b0565b",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://mosaic.scdn.co/300/ab67616d00001e0295d7a97ab1ffc133a49700d0ab67616d00001e0296854866f6f8b27f6416417eab67616d00001e02973377a2c0969e98d3fe637bab67616d00001e02b1789f73bfd0fec220b0565b",
+          "width": 300
+        },
+        {
+          "height": 60,
+          "url": "https://mosaic.scdn.co/60/ab67616d00001e0295d7a97ab1ffc133a49700d0ab67616d00001e0296854866f6f8b27f6416417eab67616d00001e02973377a2c0969e98d3fe637bab67616d00001e02b1789f73bfd0fec220b0565b",
+          "width": 60
         }
       ],
-      "owner": "midori"
+      "owner": "りお"
     }
   ]
 }
