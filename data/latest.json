@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-01T04:05:18.485Z",
+  "lastUpdated": "2026-06-01T04:21:10.985Z",
   "artist": {
     "id": "5gSFxPK5Te7WRIKL5CEWos",
     "name": "Jin Akanishi",
@@ -4661,7 +4661,7 @@
       "images": [
         {
           "height": null,
-          "url": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000d72c3671664c77eddf7349528c3b",
+          "url": "https://image-cdn-fa.spotifycdn.com/image/ab67706c0000da843671664c77eddf7349528c3b",
           "width": null
         }
       ],
@@ -4716,7 +4716,7 @@
       "images": [
         {
           "height": null,
-          "url": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000d72c071569e96aa23af1ec93accd",
+          "url": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000da84071569e96aa23af1ec93accd",
           "width": null
         }
       ],
@@ -4811,7 +4811,7 @@
       "images": [
         {
           "height": null,
-          "url": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000d72c82bf7a68c827193f44492924",
+          "url": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000da8482bf7a68c827193f44492924",
           "width": null
         }
       ],
@@ -4837,7 +4837,7 @@
       "name": "ジャニーズ（King & Prince   Number _i  なにわ男子、赤西仁）",
       "description": "",
       "followers": 0,
-      "tracks_total": 124,
+      "tracks_total": 125,
       "images": [
         {
           "height": 640,
