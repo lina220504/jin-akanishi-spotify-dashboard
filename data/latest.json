@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-15T04:18:01.882Z",
+  "lastUpdated": "2026-06-15T04:44:28.609Z",
   "artist": {
     "id": "5gSFxPK5Te7WRIKL5CEWos",
     "name": "Jin Akanishi",
@@ -4038,21 +4038,6 @@
       "owner": "gyogyo"
     },
     {
-      "id": "2cmhozJZ1vs14YOk5QARhJ",
-      "name": "ザ少年倶楽部",
-      "description": "",
-      "followers": 0,
-      "tracks_total": 97,
-      "images": [
-        {
-          "height": null,
-          "url": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000da84481fdb13b61feb360a4b38fc",
-          "width": null
-        }
-      ],
-      "owner": "hinako"
-    },
-    {
       "id": "50Hlp5pKG1BkJoPViQxkdv",
       "name": "KATｰTUN全曲",
       "description": "🩷️❤️💛We are KAT−TUN！🧡💙💜20周年おめでとうございます🎉全曲サブスク解禁となりました。リリース順に随時更新いたします。シングルはアルバムに含めています。",
@@ -4061,11 +4046,26 @@
       "images": [
         {
           "height": null,
-          "url": "https://image-cdn-fa.spotifycdn.com/image/ab67706c0000d72c2180a695c59a6effa37a19ce",
+          "url": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000d72c2180a695c59a6effa37a19ce",
           "width": null
         }
       ],
       "owner": "Asuka"
+    },
+    {
+      "id": "2cmhozJZ1vs14YOk5QARhJ",
+      "name": "ザ少年倶楽部",
+      "description": "",
+      "followers": 0,
+      "tracks_total": 97,
+      "images": [
+        {
+          "height": null,
+          "url": "https://image-cdn-fa.spotifycdn.com/image/ab67706c0000da84481fdb13b61feb360a4b38fc",
+          "width": null
+        }
+      ],
+      "owner": "hinako"
     },
     {
       "id": "4FKP4iJ2JlHHQlegHHgunj",
@@ -4101,7 +4101,7 @@
       "images": [
         {
           "height": null,
-          "url": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000da842b90c74727d3a8722fcc0352",
+          "url": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000d72c2b90c74727d3a8722fcc0352",
           "width": null
         }
       ],
@@ -4191,7 +4191,7 @@
       "images": [
         {
           "height": null,
-          "url": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000da84a61b29385ed99ab4be48b4e7",
+          "url": "https://image-cdn-fa.spotifycdn.com/image/ab67706c0000da84a61b29385ed99ab4be48b4e7",
           "width": null
         }
       ],
@@ -4686,7 +4686,7 @@
       "images": [
         {
           "height": null,
-          "url": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000da843671664c77eddf7349528c3b",
+          "url": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000d72c3671664c77eddf7349528c3b",
           "width": null
         }
       ],
@@ -4701,7 +4701,7 @@
       "images": [
         {
           "height": null,
-          "url": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000d72c62ff9196fa726c65e8763e7b",
+          "url": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000da8462ff9196fa726c65e8763e7b",
           "width": null
         }
       ],
@@ -4806,7 +4806,7 @@
       "images": [
         {
           "height": null,
-          "url": "https://image-cdn-fa.spotifycdn.com/image/ab67706c0000da84071569e96aa23af1ec93accd",
+          "url": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000da84071569e96aa23af1ec93accd",
           "width": null
         }
       ],
