@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-22T04:15:19.380Z",
+  "lastUpdated": "2026-06-22T04:43:52.556Z",
   "artist": {
     "id": "5gSFxPK5Te7WRIKL5CEWos",
     "name": "Jin Akanishi",
@@ -4046,7 +4046,7 @@
       "images": [
         {
           "height": null,
-          "url": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000da84481fdb13b61feb360a4b38fc",
+          "url": "https://image-cdn-fa.spotifycdn.com/image/ab67706c0000da84481fdb13b61feb360a4b38fc",
           "width": null
         }
       ],
@@ -4061,7 +4061,7 @@
       "images": [
         {
           "height": null,
-          "url": "https://image-cdn-fa.spotifycdn.com/image/ab67706c0000da842180a695c59a6effa37a19ce",
+          "url": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000da842180a695c59a6effa37a19ce",
           "width": null
         }
       ],
@@ -4596,11 +4596,26 @@
       "images": [
         {
           "height": null,
-          "url": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000da843671664c77eddf7349528c3b",
+          "url": "https://image-cdn-fa.spotifycdn.com/image/ab67706c0000da843671664c77eddf7349528c3b",
           "width": null
         }
       ],
       "owner": "BOSS"
+    },
+    {
+      "id": "3E8mVB72GuIHwVdmX2xtZh",
+      "name": "秦基博　シングルベスト",
+      "description": "",
+      "followers": 0,
+      "tracks_total": 56,
+      "images": [
+        {
+          "height": null,
+          "url": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000d72c62ff9196fa726c65e8763e7b",
+          "width": null
+        }
+      ],
+      "owner": "teto"
     },
     {
       "id": "56ayXqWtmr89GPXlH59zOz",
@@ -4626,21 +4641,6 @@
         }
       ],
       "owner": "さりー．"
-    },
-    {
-      "id": "3E8mVB72GuIHwVdmX2xtZh",
-      "name": "秦基博　シングルベスト",
-      "description": "",
-      "followers": 0,
-      "tracks_total": 56,
-      "images": [
-        {
-          "height": null,
-          "url": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000da8462ff9196fa726c65e8763e7b",
-          "width": null
-        }
-      ],
-      "owner": "teto"
     },
     {
       "id": "3O8a2YICDnuAG1HzN5l8Ju",
@@ -4718,46 +4718,6 @@
       "owner": "maho"
     },
     {
-      "id": "6GkK3MATaKn5IFrbpxym3l",
-      "name": "吉幾三〜ベストセレクション〜",
-      "description": "雪国🎤酒よ🎤酔歌ほか",
-      "followers": 0,
-      "tracks_total": 56,
-      "images": [
-        {
-          "height": null,
-          "url": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000da846eafb141bed1daf191a237da",
-          "width": null
-        }
-      ],
-      "owner": "Kazu"
-    },
-    {
-      "id": "3JPJGyYTShJMujJjZm9A4w",
-      "name": "八神純子ベスト",
-      "description": "",
-      "followers": 0,
-      "tracks_total": 7,
-      "images": [
-        {
-          "height": 640,
-          "url": "https://mosaic.scdn.co/640/ab67616d00001e0223fdb272130eeb201018cb1bab67616d00001e0231f9c78ab19fffeb3b0b038dab67616d00001e02ae0c4da2cee49060a4215e5eab67616d00001e02b90dba948fc086f8c45a267e",
-          "width": 640
-        },
-        {
-          "height": 300,
-          "url": "https://mosaic.scdn.co/300/ab67616d00001e0223fdb272130eeb201018cb1bab67616d00001e0231f9c78ab19fffeb3b0b038dab67616d00001e02ae0c4da2cee49060a4215e5eab67616d00001e02b90dba948fc086f8c45a267e",
-          "width": 300
-        },
-        {
-          "height": 60,
-          "url": "https://mosaic.scdn.co/60/ab67616d00001e0223fdb272130eeb201018cb1bab67616d00001e0231f9c78ab19fffeb3b0b038dab67616d00001e02ae0c4da2cee49060a4215e5eab67616d00001e02b90dba948fc086f8c45a267e",
-          "width": 60
-        }
-      ],
-      "owner": "poko_chan"
-    },
-    {
       "id": "5mApB50mu9jEtKQm45cxxu",
       "name": "今井美樹シングルベスト",
       "description": "",
@@ -4831,6 +4791,21 @@
         }
       ],
       "owner": "kiita"
+    },
+    {
+      "id": "1esicwLBzS1mUBr5N5Ml6h",
+      "name": "小泉今日子 TOUR2026 KK60 コイズミ記念館 SET LIST",
+      "description": "",
+      "followers": 0,
+      "tracks_total": 19,
+      "images": [
+        {
+          "height": null,
+          "url": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000da84071569e96aa23af1ec93accd",
+          "width": null
+        }
+      ],
+      "owner": "hiromtan"
     },
     {
       "id": "60UPTijEafr7GbhGcYkeNF",
