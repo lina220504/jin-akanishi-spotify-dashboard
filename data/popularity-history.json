@@ -2753,6 +2753,87 @@
           "releaseDate": "2020-04-22"
         }
       ]
+    },
+    {
+      "timestamp": "2026-07-20T03:18:14.960Z",
+      "date": "2026-07-20",
+      "artist": {
+        "name": "Jin Akanishi",
+        "popularity": 42,
+        "followers": 98403
+      },
+      "topTracks": [
+        {
+          "id": "3VJccANqkXGawjSaRfl4bb",
+          "name": "ムラサキ",
+          "popularity": 49,
+          "album": "OUR BEST - YOUR BEST",
+          "releaseDate": "2020-04-22"
+        },
+        {
+          "id": "3pPKgREHKngbOpmQF94yEf",
+          "name": "Eternal",
+          "popularity": 48,
+          "album": "OUR BEST - YOUR BEST",
+          "releaseDate": "2020-04-22"
+        },
+        {
+          "id": "2pms1TAcs1IWRgBCH60Y4e",
+          "name": "Baby",
+          "popularity": 38,
+          "album": "Me",
+          "releaseDate": "2015-06-24"
+        },
+        {
+          "id": "2SsJ6Oz2ZPrgz7RjvOKZLO",
+          "name": "Care",
+          "popularity": 37,
+          "album": "OUR BEST - YOUR BEST",
+          "releaseDate": "2020-04-22"
+        },
+        {
+          "id": "3hchk9gxfZ2VzGCUnGZyK3",
+          "name": "LOVEJUICE",
+          "popularity": 37,
+          "album": "DON'T U EVER STOP (Special Edition)",
+          "releaseDate": "2008-05-14"
+        },
+        {
+          "id": "4XKyFsUFqlYQXHzGmiGqAq",
+          "name": "BUTTERFLY",
+          "popularity": 36,
+          "album": "Best of KAT-TUN",
+          "releaseDate": "2006-03-22"
+        },
+        {
+          "id": "6Oje95P9YoTtGM0nw7pC6M",
+          "name": "Let Me Talk To U",
+          "popularity": 34,
+          "album": "Me",
+          "releaseDate": "2015-06-24"
+        },
+        {
+          "id": "2stX1216pKxP8f71KRlCMG",
+          "name": "Hey What’s Up?",
+          "popularity": 35,
+          "album": "OUR BEST - YOUR BEST",
+          "releaseDate": "2020-04-22"
+        },
+        {
+          "id": "1twuzdUosPYlaydLRoHUbk",
+          "name": "care",
+          "popularity": 35,
+          "album": "Break the Records -by you & for you-",
+          "releaseDate": "2009-04-29"
+        },
+        {
+          "id": "73zHmM1mTjEA2ZX96TOzkO",
+          "name": "Love Song",
+          "popularity": 33,
+          "album": "OUR BEST - YOUR BEST",
+          "releaseDate": "2020-04-22"
+        }
+      ]
     }
   ]
 }
