@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-20T03:18:14.486Z",
+  "lastUpdated": "2026-07-20T03:24:42.514Z",
   "artist": {
     "id": "5gSFxPK5Te7WRIKL5CEWos",
     "name": "Jin Akanishi",
@@ -4111,7 +4111,7 @@
       "images": [
         {
           "height": null,
-          "url": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000d72c2180a695c59a6effa37a19ce",
+          "url": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000da842180a695c59a6effa37a19ce",
           "width": null
         }
       ],
@@ -4736,7 +4736,7 @@
       "images": [
         {
           "height": null,
-          "url": "https://image-cdn-fa.spotifycdn.com/image/ab67706c0000d72ca1fa4500f30bf10a37d262c0",
+          "url": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000da84a1fa4500f30bf10a37d262c0",
           "width": null
         }
       ],
@@ -4756,21 +4756,6 @@
         }
       ],
       "owner": "筋肉太郎"
-    },
-    {
-      "id": "3dCODZzzSe5vDgRzuUnAsl",
-      "name": "秒速5センチメートル",
-      "description": "",
-      "followers": 0,
-      "tracks_total": 13,
-      "images": [
-        {
-          "height": null,
-          "url": "https://i.scdn.co/image/ab67616d00001e0293f5386e7c4eeec19a33e9cc",
-          "width": null
-        }
-      ],
-      "owner": "よーた"
     },
     {
       "id": "2p0l72tJatHMEGW6a6d3fu",
@@ -4861,7 +4846,7 @@
       "images": [
         {
           "height": null,
-          "url": "https://image-cdn-fa.spotifycdn.com/image/ab67706c0000da84a07bc0d6273042590e14625e",
+          "url": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000da84a07bc0d6273042590e14625e",
           "width": null
         }
       ],
