@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-03T02:46:28.734Z",
+  "lastUpdated": "2026-08-03T03:15:48.598Z",
   "artist": {
     "id": "5gSFxPK5Te7WRIKL5CEWos",
     "name": "Jin Akanishi",
@@ -4523,31 +4523,6 @@
       "owner": "HARUKI"
     },
     {
-      "id": "6WYXEpzsngxNv7wRAJo3X2",
-      "name": "赤西仁",
-      "description": "",
-      "followers": 0,
-      "tracks_total": 60,
-      "images": [
-        {
-          "height": 640,
-          "url": "https://mosaic.scdn.co/640/ab67616d00001e024374012d0e03109cf3e7d0b4ab67616d00001e027e4e57cb4ca8ff4860b6d112ab67616d00001e02cf9a38f72790bc8639f1aff0ab67616d00001e02fdec3d858182b711d56c7844",
-          "width": 640
-        },
-        {
-          "height": 300,
-          "url": "https://mosaic.scdn.co/300/ab67616d00001e024374012d0e03109cf3e7d0b4ab67616d00001e027e4e57cb4ca8ff4860b6d112ab67616d00001e02cf9a38f72790bc8639f1aff0ab67616d00001e02fdec3d858182b711d56c7844",
-          "width": 300
-        },
-        {
-          "height": 60,
-          "url": "https://mosaic.scdn.co/60/ab67616d00001e024374012d0e03109cf3e7d0b4ab67616d00001e027e4e57cb4ca8ff4860b6d112ab67616d00001e02cf9a38f72790bc8639f1aff0ab67616d00001e02fdec3d858182b711d56c7844",
-          "width": 60
-        }
-      ],
-      "owner": "Kingkota"
-    },
-    {
       "id": "10bCrnBpdRfNOBmBt2d5Aa",
       "name": "赤西仁WEEKEND セトリ",
       "description": "",
@@ -4648,29 +4623,29 @@
       "owner": "키호"
     },
     {
-      "id": "1m8yHbnBNey5D9HIzvPSga",
-      "name": "吉田仁人　全曲(2026/06/08更新)",
-      "description": "仁人くんの歌を集めました",
+      "id": "54w7ZREPTkCe7bIgLjFuj7",
+      "name": "KAT-TUN＋赤西仁",
+      "description": "",
       "followers": 0,
-      "tracks_total": 11,
+      "tracks_total": 121,
       "images": [
         {
           "height": 640,
-          "url": "https://mosaic.scdn.co/640/ab67616d00001e023e21c16dacd4d142b8c2a822ab67616d00001e025143fda9a67b19ec706418a0ab67616d00001e02911a5b0496c641ff37b3fd7fab67616d00001e02f6dfddd212637ea499e678e4",
+          "url": "https://mosaic.scdn.co/640/ab67616d00001e020a4cb089d28b0895a6735db3ab67616d00001e0220dd8774823d28114204d36dab67616d00001e0262f47e4f4368fb38dbbb0a57ab67616d00001e027e36452d8710e95e3240adce",
           "width": 640
         },
         {
           "height": 300,
-          "url": "https://mosaic.scdn.co/300/ab67616d00001e023e21c16dacd4d142b8c2a822ab67616d00001e025143fda9a67b19ec706418a0ab67616d00001e02911a5b0496c641ff37b3fd7fab67616d00001e02f6dfddd212637ea499e678e4",
+          "url": "https://mosaic.scdn.co/300/ab67616d00001e020a4cb089d28b0895a6735db3ab67616d00001e0220dd8774823d28114204d36dab67616d00001e0262f47e4f4368fb38dbbb0a57ab67616d00001e027e36452d8710e95e3240adce",
           "width": 300
         },
         {
           "height": 60,
-          "url": "https://mosaic.scdn.co/60/ab67616d00001e023e21c16dacd4d142b8c2a822ab67616d00001e025143fda9a67b19ec706418a0ab67616d00001e02911a5b0496c641ff37b3fd7fab67616d00001e02f6dfddd212637ea499e678e4",
+          "url": "https://mosaic.scdn.co/60/ab67616d00001e020a4cb089d28b0895a6735db3ab67616d00001e0220dd8774823d28114204d36dab67616d00001e0262f47e4f4368fb38dbbb0a57ab67616d00001e027e36452d8710e95e3240adce",
           "width": 60
         }
       ],
-      "owner": "霧"
+      "owner": "kiita"
     },
     {
       "id": "4nbM9y7M0Z77XbvdQVKLZU",
@@ -4746,7 +4721,7 @@
       "images": [
         {
           "height": null,
-          "url": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000da84715b6b704402917ee2a0c356",
+          "url": "https://image-cdn-fa.spotifycdn.com/image/ab67706c0000d72c715b6b704402917ee2a0c356",
           "width": null
         }
       ],
@@ -4826,7 +4801,7 @@
       "images": [
         {
           "height": null,
-          "url": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000da8452629445f0c05fd04d4ff254",
+          "url": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000d72c52629445f0c05fd04d4ff254",
           "width": null
         }
       ],
@@ -4856,7 +4831,7 @@
       "images": [
         {
           "height": null,
-          "url": "https://image-cdn-fa.spotifycdn.com/image/ab67706c0000da84e84e585f2d9c5dea2e11fbb1",
+          "url": "https://image-cdn-fa.spotifycdn.com/image/ab67706c0000d72ce84e585f2d9c5dea2e11fbb1",
           "width": null
         }
       ],
@@ -4871,7 +4846,7 @@
       "images": [
         {
           "height": null,
-          "url": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000da8477275f78da15c561954005df",
+          "url": "https://image-cdn-fa.spotifycdn.com/image/ab67706c0000d72c77275f78da15c561954005df",
           "width": null
         }
       ],
