@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-17T01:13:35.671Z",
+  "lastUpdated": "2026-08-17T01:22:41.138Z",
   "dataPoints": 39,
   "dateRange": {
     "start": "2025-12-12",
@@ -236,7 +236,7 @@
     },
     {
       "date": "2026-08-17",
-      "timestamp": "2026-08-17T01:13:35.655Z",
+      "timestamp": "2026-08-17T01:22:41.119Z",
       "popularity": 41,
       "followers": 98713
     }

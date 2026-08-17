@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-17T01:13:35.235Z",
+  "lastUpdated": "2026-08-17T01:22:40.674Z",
   "artist": {
     "id": "5gSFxPK5Te7WRIKL5CEWos",
     "name": "Jin Akanishi",
@@ -4643,31 +4643,6 @@
       "owner": "Seiya_777"
     },
     {
-      "id": "1m8yHbnBNey5D9HIzvPSga",
-      "name": "吉田仁人　全曲(2026/06/08更新)",
-      "description": "仁人くんの歌を集めました",
-      "followers": 0,
-      "tracks_total": 11,
-      "images": [
-        {
-          "height": 640,
-          "url": "https://mosaic.scdn.co/640/ab67616d00001e023e21c16dacd4d142b8c2a822ab67616d00001e025143fda9a67b19ec706418a0ab67616d00001e02911a5b0496c641ff37b3fd7fab67616d00001e02f6dfddd212637ea499e678e4",
-          "width": 640
-        },
-        {
-          "height": 300,
-          "url": "https://mosaic.scdn.co/300/ab67616d00001e023e21c16dacd4d142b8c2a822ab67616d00001e025143fda9a67b19ec706418a0ab67616d00001e02911a5b0496c641ff37b3fd7fab67616d00001e02f6dfddd212637ea499e678e4",
-          "width": 300
-        },
-        {
-          "height": 60,
-          "url": "https://mosaic.scdn.co/60/ab67616d00001e023e21c16dacd4d142b8c2a822ab67616d00001e025143fda9a67b19ec706418a0ab67616d00001e02911a5b0496c641ff37b3fd7fab67616d00001e02f6dfddd212637ea499e678e4",
-          "width": 60
-        }
-      ],
-      "owner": "霧"
-    },
-    {
       "id": "4iaXeAxrgEkKEgggqi1KD5",
       "name": "ジャニーズ（King & Prince   Number _i  なにわ男子、赤西仁）",
       "description": "",
@@ -4721,21 +4696,6 @@
         }
       ],
       "owner": "筋肉太郎"
-    },
-    {
-      "id": "3dCODZzzSe5vDgRzuUnAsl",
-      "name": "秒速5センチメートル",
-      "description": "",
-      "followers": 0,
-      "tracks_total": 13,
-      "images": [
-        {
-          "height": null,
-          "url": "https://i.scdn.co/image/ab67616d00001e0293f5386e7c4eeec19a33e9cc",
-          "width": null
-        }
-      ],
-      "owner": "よーた"
     },
     {
       "id": "4JlsyZ4gKdcGpNh5yi1qvU",
@@ -4851,6 +4811,21 @@
         }
       ],
       "owner": "Smcattu"
+    },
+    {
+      "id": "4kKfdOjqfjaQYqo1f30ImZ",
+      "name": "中西圭三 / ベスト•シングル•コレクション (CD)",
+      "description": "",
+      "followers": 0,
+      "tracks_total": 17,
+      "images": [
+        {
+          "height": null,
+          "url": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000da84460475ee55fedcf69fdbf90c",
+          "width": null
+        }
+      ],
+      "owner": "Elwood.yk"
     },
     {
       "id": "1eymq7d1KSAXE9jNYAuO7K",
