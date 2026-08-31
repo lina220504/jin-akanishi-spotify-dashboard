@@ -1,0 +1,2002 @@
+{
+  "lastUpdated": "2026-08-31T04:26:53.715Z",
+  "dataPoints": 41,
+  "dateRange": {
+    "start": "2025-12-12",
+    "end": "2026-08-31"
+  },
+  "artistPopularity": [
+    {
+      "date": "2025-12-12",
+      "timestamp": "2025-12-12T09:31:31.829Z",
+      "popularity": 43,
+      "followers": 94183
+    },
+    {
+      "date": "2025-12-15",
+      "timestamp": "2025-12-15T06:49:29.109Z",
+      "popularity": 43,
+      "followers": 94243
+    },
+    {
+      "date": "2025-12-16",
+      "timestamp": "2025-12-16T04:12:09.427Z",
+      "popularity": 43,
+      "followers": 94243
+    },
+    {
+      "date": "2025-12-17",
+      "timestamp": "2025-12-17T06:31:58.554Z",
+      "popularity": 43,
+      "followers": 94266
+    },
+    {
+      "date": "2025-12-22",
+      "timestamp": "2025-12-22T01:59:08.843Z",
+      "popularity": 43,
+      "followers": 94319
+    },
+    {
+      "date": "2025-12-29",
+      "timestamp": "2025-12-29T02:03:31.406Z",
+      "popularity": 43,
+      "followers": 94420
+    },
+    {
+      "date": "2026-01-05",
+      "timestamp": "2026-01-05T02:06:48.800Z",
+      "popularity": 42,
+      "followers": 94559
+    },
+    {
+      "date": "2026-01-12",
+      "timestamp": "2026-01-12T02:03:11.251Z",
+      "popularity": 42,
+      "followers": 94685
+    },
+    {
+      "date": "2026-01-19",
+      "timestamp": "2026-01-19T02:03:39.817Z",
+      "popularity": 42,
+      "followers": 94808
+    },
+    {
+      "date": "2026-01-26",
+      "timestamp": "2026-01-26T02:08:14.459Z",
+      "popularity": 41,
+      "followers": 94918
+    },
+    {
+      "date": "2026-02-02",
+      "timestamp": "2026-02-02T02:31:53.810Z",
+      "popularity": 41,
+      "followers": 94990
+    },
+    {
+      "date": "2026-02-09",
+      "timestamp": "2026-02-09T02:32:32.297Z",
+      "popularity": 40,
+      "followers": 95072
+    },
+    {
+      "date": "2026-02-16",
+      "timestamp": "2026-02-16T02:30:56.640Z",
+      "popularity": 38,
+      "followers": 95176
+    },
+    {
+      "date": "2026-02-23",
+      "timestamp": "2026-02-23T02:31:04.805Z",
+      "popularity": 37,
+      "followers": 95262
+    },
+    {
+      "date": "2026-03-02",
+      "timestamp": "2026-03-02T02:26:31.468Z",
+      "popularity": 37,
+      "followers": 95345
+    },
+    {
+      "date": "2026-03-09",
+      "timestamp": "2026-03-09T02:29:22.867Z",
+      "popularity": 38,
+      "followers": 95439
+    },
+    {
+      "date": "2026-03-16",
+      "timestamp": "2026-03-16T02:42:24.687Z",
+      "popularity": 38,
+      "followers": 95551
+    },
+    {
+      "date": "2026-03-23",
+      "timestamp": "2026-03-23T02:34:11.555Z",
+      "popularity": 38,
+      "followers": 95898
+    },
+    {
+      "date": "2026-03-30",
+      "timestamp": "2026-03-30T02:46:56.213Z",
+      "popularity": 40,
+      "followers": 96580
+    },
+    {
+      "date": "2026-04-06",
+      "timestamp": "2026-04-06T02:48:01.141Z",
+      "popularity": 41,
+      "followers": 96843
+    },
+    {
+      "date": "2026-04-13",
+      "timestamp": "2026-04-13T02:56:43.165Z",
+      "popularity": 41,
+      "followers": 96977
+    },
+    {
+      "date": "2026-04-20",
+      "timestamp": "2026-04-20T02:57:22.950Z",
+      "popularity": 41,
+      "followers": 97091
+    },
+    {
+      "date": "2026-04-27",
+      "timestamp": "2026-04-27T03:24:33.240Z",
+      "popularity": 41,
+      "followers": 97204
+    },
+    {
+      "date": "2026-05-04",
+      "timestamp": "2026-05-04T03:31:06.344Z",
+      "popularity": 41,
+      "followers": 97295
+    },
+    {
+      "date": "2026-05-11",
+      "timestamp": "2026-05-11T03:49:37.418Z",
+      "popularity": 41,
+      "followers": 97391
+    },
+    {
+      "date": "2026-05-18",
+      "timestamp": "2026-05-18T03:57:07.750Z",
+      "popularity": 41,
+      "followers": 97493
+    },
+    {
+      "date": "2026-05-25",
+      "timestamp": "2026-05-25T04:05:40.638Z",
+      "popularity": 39,
+      "followers": 97582
+    },
+    {
+      "date": "2026-06-01",
+      "timestamp": "2026-06-01T04:21:11.358Z",
+      "popularity": 39,
+      "followers": 97698
+    },
+    {
+      "date": "2026-06-08",
+      "timestamp": "2026-06-08T04:16:55.084Z",
+      "popularity": 39,
+      "followers": 97774
+    },
+    {
+      "date": "2026-06-15",
+      "timestamp": "2026-06-15T04:44:29.051Z",
+      "popularity": 39,
+      "followers": 97862
+    },
+    {
+      "date": "2026-06-22",
+      "timestamp": "2026-06-22T04:43:52.925Z",
+      "popularity": 39,
+      "followers": 97952
+    },
+    {
+      "date": "2026-06-29",
+      "timestamp": "2026-06-29T04:12:14.529Z",
+      "popularity": 40,
+      "followers": 98043
+    },
+    {
+      "date": "2026-07-06",
+      "timestamp": "2026-07-06T03:49:31.967Z",
+      "popularity": 41,
+      "followers": 98168
+    },
+    {
+      "date": "2026-07-13",
+      "timestamp": "2026-07-13T03:17:06.162Z",
+      "popularity": 42,
+      "followers": 98291
+    },
+    {
+      "date": "2026-07-20",
+      "timestamp": "2026-07-20T03:24:42.939Z",
+      "popularity": 42,
+      "followers": 98403
+    },
+    {
+      "date": "2026-07-27",
+      "timestamp": "2026-07-27T03:24:28.662Z",
+      "popularity": 42,
+      "followers": 98477
+    },
+    {
+      "date": "2026-08-03",
+      "timestamp": "2026-08-03T03:15:49.035Z",
+      "popularity": 42,
+      "followers": 98550
+    },
+    {
+      "date": "2026-08-10",
+      "timestamp": "2026-08-10T01:58:41.158Z",
+      "popularity": 42,
+      "followers": 98619
+    },
+    {
+      "date": "2026-08-17",
+      "timestamp": "2026-08-17T01:22:41.119Z",
+      "popularity": 41,
+      "followers": 98713
+    },
+    {
+      "date": "2026-08-24",
+      "timestamp": "2026-08-24T01:24:45.311Z",
+      "popularity": 41,
+      "followers": 98787
+    },
+    {
+      "date": "2026-08-31",
+      "timestamp": "2026-08-31T04:26:53.702Z",
+      "popularity": 41,
+      "followers": 98876
+    }
+  ],
+  "trackPopularity": [
+    {
+      "id": "3VJccANqkXGawjSaRfl4bb",
+      "name": "ムラサキ",
+      "album": "OUR BEST - YOUR BEST",
+      "releaseDate": "2020-04-22",
+      "history": [
+        {
+          "date": "2025-12-12",
+          "popularity": 49
+        },
+        {
+          "date": "2025-12-15",
+          "popularity": 49
+        },
+        {
+          "date": "2025-12-16",
+          "popularity": 49
+        },
+        {
+          "date": "2025-12-17",
+          "popularity": 49
+        },
+        {
+          "date": "2025-12-22",
+          "popularity": 49
+        },
+        {
+          "date": "2025-12-29",
+          "popularity": 47
+        },
+        {
+          "date": "2026-01-05",
+          "popularity": 48
+        },
+        {
+          "date": "2026-01-12",
+          "popularity": 48
+        },
+        {
+          "date": "2026-01-19",
+          "popularity": 48
+        },
+        {
+          "date": "2026-01-26",
+          "popularity": 47
+        },
+        {
+          "date": "2026-02-02",
+          "popularity": 47
+        },
+        {
+          "date": "2026-02-09",
+          "popularity": 47
+        },
+        {
+          "date": "2026-02-16",
+          "popularity": 47
+        },
+        {
+          "date": "2026-02-23",
+          "popularity": 46
+        },
+        {
+          "date": "2026-03-02",
+          "popularity": 46
+        },
+        {
+          "date": "2026-03-09",
+          "popularity": 46
+        },
+        {
+          "date": "2026-03-16",
+          "popularity": 46
+        },
+        {
+          "date": "2026-03-23",
+          "popularity": 47
+        },
+        {
+          "date": "2026-03-30",
+          "popularity": 48
+        },
+        {
+          "date": "2026-04-06",
+          "popularity": 49
+        },
+        {
+          "date": "2026-04-13",
+          "popularity": 49
+        },
+        {
+          "date": "2026-04-20",
+          "popularity": 48
+        },
+        {
+          "date": "2026-04-27",
+          "popularity": 48
+        },
+        {
+          "date": "2026-05-04",
+          "popularity": 48
+        },
+        {
+          "date": "2026-05-11",
+          "popularity": 48
+        },
+        {
+          "date": "2026-05-18",
+          "popularity": 48
+        },
+        {
+          "date": "2026-05-25",
+          "popularity": 48
+        },
+        {
+          "date": "2026-06-01",
+          "popularity": 48
+        },
+        {
+          "date": "2026-06-08",
+          "popularity": 48
+        },
+        {
+          "date": "2026-06-15",
+          "popularity": 49
+        },
+        {
+          "date": "2026-06-22",
+          "popularity": 49
+        },
+        {
+          "date": "2026-06-29",
+          "popularity": 49
+        },
+        {
+          "date": "2026-07-06",
+          "popularity": 49
+        },
+        {
+          "date": "2026-07-13",
+          "popularity": 49
+        },
+        {
+          "date": "2026-07-20",
+          "popularity": 49
+        },
+        {
+          "date": "2026-07-27",
+          "popularity": 49
+        },
+        {
+          "date": "2026-08-03",
+          "popularity": 48
+        },
+        {
+          "date": "2026-08-10",
+          "popularity": 48
+        },
+        {
+          "date": "2026-08-17",
+          "popularity": 48
+        },
+        {
+          "date": "2026-08-24",
+          "popularity": 48
+        },
+        {
+          "date": "2026-08-31",
+          "popularity": 49
+        }
+      ]
+    },
+    {
+      "id": "3pPKgREHKngbOpmQF94yEf",
+      "name": "Eternal",
+      "album": "OUR BEST - YOUR BEST",
+      "releaseDate": "2020-04-22",
+      "history": [
+        {
+          "date": "2025-12-12",
+          "popularity": 47
+        },
+        {
+          "date": "2025-12-15",
+          "popularity": 47
+        },
+        {
+          "date": "2025-12-16",
+          "popularity": 47
+        },
+        {
+          "date": "2025-12-17",
+          "popularity": 47
+        },
+        {
+          "date": "2025-12-22",
+          "popularity": 47
+        },
+        {
+          "date": "2025-12-29",
+          "popularity": 46
+        },
+        {
+          "date": "2026-01-05",
+          "popularity": 47
+        },
+        {
+          "date": "2026-01-12",
+          "popularity": 47
+        },
+        {
+          "date": "2026-01-19",
+          "popularity": 46
+        },
+        {
+          "date": "2026-01-26",
+          "popularity": 46
+        },
+        {
+          "date": "2026-02-02",
+          "popularity": 45
+        },
+        {
+          "date": "2026-02-09",
+          "popularity": 45
+        },
+        {
+          "date": "2026-02-16",
+          "popularity": 45
+        },
+        {
+          "date": "2026-02-23",
+          "popularity": 44
+        },
+        {
+          "date": "2026-03-02",
+          "popularity": 44
+        },
+        {
+          "date": "2026-03-09",
+          "popularity": 45
+        },
+        {
+          "date": "2026-03-16",
+          "popularity": 45
+        },
+        {
+          "date": "2026-03-23",
+          "popularity": 45
+        },
+        {
+          "date": "2026-03-30",
+          "popularity": 46
+        },
+        {
+          "date": "2026-04-06",
+          "popularity": 46
+        },
+        {
+          "date": "2026-04-13",
+          "popularity": 46
+        },
+        {
+          "date": "2026-04-20",
+          "popularity": 46
+        },
+        {
+          "date": "2026-04-27",
+          "popularity": 46
+        },
+        {
+          "date": "2026-05-04",
+          "popularity": 46
+        },
+        {
+          "date": "2026-05-11",
+          "popularity": 46
+        },
+        {
+          "date": "2026-05-18",
+          "popularity": 46
+        },
+        {
+          "date": "2026-05-25",
+          "popularity": 46
+        },
+        {
+          "date": "2026-06-01",
+          "popularity": 46
+        },
+        {
+          "date": "2026-06-08",
+          "popularity": 46
+        },
+        {
+          "date": "2026-06-15",
+          "popularity": 47
+        },
+        {
+          "date": "2026-06-22",
+          "popularity": 47
+        },
+        {
+          "date": "2026-06-29",
+          "popularity": 47
+        },
+        {
+          "date": "2026-07-06",
+          "popularity": 48
+        },
+        {
+          "date": "2026-07-13",
+          "popularity": 48
+        },
+        {
+          "date": "2026-07-20",
+          "popularity": 48
+        },
+        {
+          "date": "2026-07-27",
+          "popularity": 48
+        },
+        {
+          "date": "2026-08-03",
+          "popularity": 48
+        },
+        {
+          "date": "2026-08-10",
+          "popularity": 48
+        },
+        {
+          "date": "2026-08-17",
+          "popularity": 47
+        },
+        {
+          "date": "2026-08-24",
+          "popularity": 48
+        },
+        {
+          "date": "2026-08-31",
+          "popularity": 48
+        }
+      ]
+    },
+    {
+      "id": "2pms1TAcs1IWRgBCH60Y4e",
+      "name": "Baby",
+      "album": "Me",
+      "releaseDate": "2015-06-24",
+      "history": [
+        {
+          "date": "2025-12-12",
+          "popularity": 40
+        },
+        {
+          "date": "2025-12-15",
+          "popularity": 40
+        },
+        {
+          "date": "2025-12-16",
+          "popularity": 39
+        },
+        {
+          "date": "2025-12-17",
+          "popularity": 40
+        },
+        {
+          "date": "2025-12-22",
+          "popularity": 39
+        },
+        {
+          "date": "2025-12-29",
+          "popularity": 38
+        },
+        {
+          "date": "2026-01-05",
+          "popularity": 39
+        },
+        {
+          "date": "2026-01-12",
+          "popularity": 39
+        },
+        {
+          "date": "2026-01-19",
+          "popularity": 38
+        },
+        {
+          "date": "2026-01-26",
+          "popularity": 38
+        },
+        {
+          "date": "2026-02-02",
+          "popularity": 37
+        },
+        {
+          "date": "2026-02-09",
+          "popularity": 37
+        },
+        {
+          "date": "2026-02-16",
+          "popularity": 37
+        },
+        {
+          "date": "2026-02-23",
+          "popularity": 36
+        },
+        {
+          "date": "2026-03-02",
+          "popularity": 36
+        },
+        {
+          "date": "2026-03-09",
+          "popularity": 36
+        },
+        {
+          "date": "2026-03-16",
+          "popularity": 36
+        },
+        {
+          "date": "2026-03-23",
+          "popularity": 37
+        },
+        {
+          "date": "2026-03-30",
+          "popularity": 37
+        },
+        {
+          "date": "2026-04-06",
+          "popularity": 38
+        },
+        {
+          "date": "2026-04-13",
+          "popularity": 37
+        },
+        {
+          "date": "2026-04-20",
+          "popularity": 37
+        },
+        {
+          "date": "2026-04-27",
+          "popularity": 36
+        },
+        {
+          "date": "2026-05-04",
+          "popularity": 36
+        },
+        {
+          "date": "2026-05-11",
+          "popularity": 36
+        },
+        {
+          "date": "2026-05-18",
+          "popularity": 36
+        },
+        {
+          "date": "2026-05-25",
+          "popularity": 37
+        },
+        {
+          "date": "2026-06-01",
+          "popularity": 37
+        },
+        {
+          "date": "2026-06-08",
+          "popularity": 37
+        },
+        {
+          "date": "2026-06-15",
+          "popularity": 37
+        },
+        {
+          "date": "2026-06-22",
+          "popularity": 38
+        },
+        {
+          "date": "2026-06-29",
+          "popularity": 38
+        },
+        {
+          "date": "2026-07-06",
+          "popularity": 38
+        },
+        {
+          "date": "2026-07-13",
+          "popularity": 38
+        },
+        {
+          "date": "2026-07-20",
+          "popularity": 38
+        },
+        {
+          "date": "2026-07-27",
+          "popularity": 38
+        },
+        {
+          "date": "2026-08-03",
+          "popularity": 38
+        },
+        {
+          "date": "2026-08-10",
+          "popularity": 38
+        },
+        {
+          "date": "2026-08-17",
+          "popularity": 38
+        },
+        {
+          "date": "2026-08-24",
+          "popularity": 38
+        },
+        {
+          "date": "2026-08-31",
+          "popularity": 38
+        }
+      ]
+    },
+    {
+      "id": "2SsJ6Oz2ZPrgz7RjvOKZLO",
+      "name": "Care",
+      "album": "OUR BEST - YOUR BEST",
+      "releaseDate": "2020-04-22",
+      "history": [
+        {
+          "date": "2025-12-12",
+          "popularity": 39
+        },
+        {
+          "date": "2025-12-15",
+          "popularity": 39
+        },
+        {
+          "date": "2025-12-16",
+          "popularity": 39
+        },
+        {
+          "date": "2025-12-17",
+          "popularity": 39
+        },
+        {
+          "date": "2025-12-22",
+          "popularity": 38
+        },
+        {
+          "date": "2025-12-29",
+          "popularity": 37
+        },
+        {
+          "date": "2026-01-05",
+          "popularity": 37
+        },
+        {
+          "date": "2026-01-12",
+          "popularity": 37
+        },
+        {
+          "date": "2026-01-19",
+          "popularity": 37
+        },
+        {
+          "date": "2026-01-26",
+          "popularity": 36
+        },
+        {
+          "date": "2026-02-02",
+          "popularity": 36
+        },
+        {
+          "date": "2026-02-09",
+          "popularity": 35
+        },
+        {
+          "date": "2026-02-16",
+          "popularity": 35
+        },
+        {
+          "date": "2026-02-23",
+          "popularity": 34
+        },
+        {
+          "date": "2026-03-02",
+          "popularity": 34
+        },
+        {
+          "date": "2026-03-09",
+          "popularity": 34
+        },
+        {
+          "date": "2026-03-16",
+          "popularity": 35
+        },
+        {
+          "date": "2026-03-23",
+          "popularity": 35
+        },
+        {
+          "date": "2026-03-30",
+          "popularity": 37
+        },
+        {
+          "date": "2026-04-06",
+          "popularity": 37
+        },
+        {
+          "date": "2026-04-13",
+          "popularity": 37
+        },
+        {
+          "date": "2026-04-20",
+          "popularity": 36
+        },
+        {
+          "date": "2026-04-27",
+          "popularity": 36
+        },
+        {
+          "date": "2026-05-04",
+          "popularity": 35
+        },
+        {
+          "date": "2026-05-11",
+          "popularity": 35
+        },
+        {
+          "date": "2026-05-18",
+          "popularity": 35
+        },
+        {
+          "date": "2026-05-25",
+          "popularity": 35
+        },
+        {
+          "date": "2026-06-01",
+          "popularity": 35
+        },
+        {
+          "date": "2026-06-08",
+          "popularity": 36
+        },
+        {
+          "date": "2026-06-15",
+          "popularity": 36
+        },
+        {
+          "date": "2026-06-22",
+          "popularity": 36
+        },
+        {
+          "date": "2026-06-29",
+          "popularity": 36
+        },
+        {
+          "date": "2026-07-06",
+          "popularity": 36
+        },
+        {
+          "date": "2026-07-13",
+          "popularity": 37
+        },
+        {
+          "date": "2026-07-20",
+          "popularity": 37
+        },
+        {
+          "date": "2026-07-27",
+          "popularity": 37
+        },
+        {
+          "date": "2026-08-03",
+          "popularity": 36
+        },
+        {
+          "date": "2026-08-10",
+          "popularity": 36
+        },
+        {
+          "date": "2026-08-17",
+          "popularity": 36
+        },
+        {
+          "date": "2026-08-24",
+          "popularity": 36
+        },
+        {
+          "date": "2026-08-31",
+          "popularity": 36
+        }
+      ]
+    },
+    {
+      "id": "73zHmM1mTjEA2ZX96TOzkO",
+      "name": "Love Song",
+      "album": "OUR BEST - YOUR BEST",
+      "releaseDate": "2020-04-22",
+      "history": [
+        {
+          "date": "2025-12-12",
+          "popularity": 37
+        },
+        {
+          "date": "2025-12-15",
+          "popularity": 37
+        },
+        {
+          "date": "2025-12-16",
+          "popularity": 37
+        },
+        {
+          "date": "2025-12-17",
+          "popularity": 37
+        },
+        {
+          "date": "2025-12-22",
+          "popularity": 37
+        },
+        {
+          "date": "2025-12-29",
+          "popularity": 35
+        },
+        {
+          "date": "2026-01-05",
+          "popularity": 36
+        },
+        {
+          "date": "2026-01-12",
+          "popularity": 35
+        },
+        {
+          "date": "2026-01-19",
+          "popularity": 35
+        },
+        {
+          "date": "2026-01-26",
+          "popularity": 34
+        },
+        {
+          "date": "2026-02-02",
+          "popularity": 33
+        },
+        {
+          "date": "2026-02-09",
+          "popularity": 33
+        },
+        {
+          "date": "2026-02-16",
+          "popularity": 33
+        },
+        {
+          "date": "2026-02-23",
+          "popularity": 32
+        },
+        {
+          "date": "2026-03-02",
+          "popularity": 32
+        },
+        {
+          "date": "2026-03-09",
+          "popularity": 32
+        },
+        {
+          "date": "2026-03-16",
+          "popularity": 32
+        },
+        {
+          "date": "2026-03-23",
+          "popularity": 32
+        },
+        {
+          "date": "2026-03-30",
+          "popularity": 33
+        },
+        {
+          "date": "2026-04-06",
+          "popularity": 33
+        },
+        {
+          "date": "2026-04-13",
+          "popularity": 33
+        },
+        {
+          "date": "2026-04-20",
+          "popularity": 33
+        },
+        {
+          "date": "2026-04-27",
+          "popularity": 32
+        },
+        {
+          "date": "2026-05-04",
+          "popularity": 32
+        },
+        {
+          "date": "2026-05-11",
+          "popularity": 32
+        },
+        {
+          "date": "2026-05-18",
+          "popularity": 32
+        },
+        {
+          "date": "2026-05-25",
+          "popularity": 32
+        },
+        {
+          "date": "2026-06-01",
+          "popularity": 32
+        },
+        {
+          "date": "2026-06-08",
+          "popularity": 32
+        },
+        {
+          "date": "2026-06-15",
+          "popularity": 33
+        },
+        {
+          "date": "2026-06-22",
+          "popularity": 33
+        },
+        {
+          "date": "2026-06-29",
+          "popularity": 33
+        },
+        {
+          "date": "2026-07-06",
+          "popularity": 33
+        },
+        {
+          "date": "2026-07-13",
+          "popularity": 34
+        },
+        {
+          "date": "2026-07-20",
+          "popularity": 33
+        },
+        {
+          "date": "2026-07-27",
+          "popularity": 33
+        },
+        {
+          "date": "2026-08-03",
+          "popularity": 33
+        },
+        {
+          "date": "2026-08-10",
+          "popularity": 32
+        },
+        {
+          "date": "2026-08-17",
+          "popularity": 32
+        },
+        {
+          "date": "2026-08-24",
+          "popularity": 32
+        },
+        {
+          "date": "2026-08-31",
+          "popularity": 32
+        }
+      ]
+    },
+    {
+      "id": "6Oje95P9YoTtGM0nw7pC6M",
+      "name": "Let Me Talk To U",
+      "album": "Me",
+      "releaseDate": "2015-06-24",
+      "history": [
+        {
+          "date": "2025-12-12",
+          "popularity": 36
+        },
+        {
+          "date": "2025-12-15",
+          "popularity": 36
+        },
+        {
+          "date": "2025-12-16",
+          "popularity": 36
+        },
+        {
+          "date": "2025-12-17",
+          "popularity": 36
+        },
+        {
+          "date": "2025-12-22",
+          "popularity": 36
+        },
+        {
+          "date": "2025-12-29",
+          "popularity": 34
+        },
+        {
+          "date": "2026-01-05",
+          "popularity": 35
+        },
+        {
+          "date": "2026-01-12",
+          "popularity": 34
+        },
+        {
+          "date": "2026-01-19",
+          "popularity": 34
+        },
+        {
+          "date": "2026-01-26",
+          "popularity": 33
+        },
+        {
+          "date": "2026-02-02",
+          "popularity": 33
+        },
+        {
+          "date": "2026-02-09",
+          "popularity": 32
+        },
+        {
+          "date": "2026-02-16",
+          "popularity": 32
+        },
+        {
+          "date": "2026-02-23",
+          "popularity": 31
+        },
+        {
+          "date": "2026-03-02",
+          "popularity": 31
+        },
+        {
+          "date": "2026-03-09",
+          "popularity": 32
+        },
+        {
+          "date": "2026-03-16",
+          "popularity": 32
+        },
+        {
+          "date": "2026-03-23",
+          "popularity": 32
+        },
+        {
+          "date": "2026-03-30",
+          "popularity": 33
+        },
+        {
+          "date": "2026-04-06",
+          "popularity": 34
+        },
+        {
+          "date": "2026-04-13",
+          "popularity": 33
+        },
+        {
+          "date": "2026-04-20",
+          "popularity": 33
+        },
+        {
+          "date": "2026-04-27",
+          "popularity": 32
+        },
+        {
+          "date": "2026-05-04",
+          "popularity": 32
+        },
+        {
+          "date": "2026-05-11",
+          "popularity": 32
+        },
+        {
+          "date": "2026-05-18",
+          "popularity": 32
+        },
+        {
+          "date": "2026-05-25",
+          "popularity": 32
+        },
+        {
+          "date": "2026-06-01",
+          "popularity": 33
+        },
+        {
+          "date": "2026-06-08",
+          "popularity": 32
+        },
+        {
+          "date": "2026-06-15",
+          "popularity": 33
+        },
+        {
+          "date": "2026-06-22",
+          "popularity": 33
+        },
+        {
+          "date": "2026-06-29",
+          "popularity": 33
+        },
+        {
+          "date": "2026-07-06",
+          "popularity": 33
+        },
+        {
+          "date": "2026-07-13",
+          "popularity": 34
+        },
+        {
+          "date": "2026-07-20",
+          "popularity": 34
+        },
+        {
+          "date": "2026-07-27",
+          "popularity": 34
+        },
+        {
+          "date": "2026-08-03",
+          "popularity": 33
+        },
+        {
+          "date": "2026-08-10",
+          "popularity": 33
+        },
+        {
+          "date": "2026-08-17",
+          "popularity": 33
+        },
+        {
+          "date": "2026-08-24",
+          "popularity": 33
+        },
+        {
+          "date": "2026-08-31",
+          "popularity": 33
+        }
+      ]
+    },
+    {
+      "id": "2stX1216pKxP8f71KRlCMG",
+      "name": "Hey What’s Up?",
+      "album": "OUR BEST - YOUR BEST",
+      "releaseDate": "2020-04-22",
+      "history": [
+        {
+          "date": "2025-12-12",
+          "popularity": 35
+        },
+        {
+          "date": "2025-12-15",
+          "popularity": 35
+        },
+        {
+          "date": "2025-12-16",
+          "popularity": 35
+        },
+        {
+          "date": "2025-12-17",
+          "popularity": 35
+        },
+        {
+          "date": "2025-12-22",
+          "popularity": 35
+        },
+        {
+          "date": "2025-12-29",
+          "popularity": 33
+        },
+        {
+          "date": "2026-01-05",
+          "popularity": 34
+        },
+        {
+          "date": "2026-01-12",
+          "popularity": 34
+        },
+        {
+          "date": "2026-01-19",
+          "popularity": 33
+        },
+        {
+          "date": "2026-01-26",
+          "popularity": 33
+        },
+        {
+          "date": "2026-02-02",
+          "popularity": 32
+        },
+        {
+          "date": "2026-02-09",
+          "popularity": 32
+        },
+        {
+          "date": "2026-02-16",
+          "popularity": 32
+        },
+        {
+          "date": "2026-02-23",
+          "popularity": 31
+        },
+        {
+          "date": "2026-03-02",
+          "popularity": 31
+        },
+        {
+          "date": "2026-03-09",
+          "popularity": 31
+        },
+        {
+          "date": "2026-03-16",
+          "popularity": 31
+        },
+        {
+          "date": "2026-03-23",
+          "popularity": 32
+        },
+        {
+          "date": "2026-03-30",
+          "popularity": 33
+        },
+        {
+          "date": "2026-04-06",
+          "popularity": 33
+        },
+        {
+          "date": "2026-04-13",
+          "popularity": 33
+        },
+        {
+          "date": "2026-04-20",
+          "popularity": 33
+        },
+        {
+          "date": "2026-04-27",
+          "popularity": 33
+        },
+        {
+          "date": "2026-05-04",
+          "popularity": 33
+        },
+        {
+          "date": "2026-05-11",
+          "popularity": 33
+        },
+        {
+          "date": "2026-05-18",
+          "popularity": 33
+        },
+        {
+          "date": "2026-05-25",
+          "popularity": 33
+        },
+        {
+          "date": "2026-06-01",
+          "popularity": 33
+        },
+        {
+          "date": "2026-06-08",
+          "popularity": 33
+        },
+        {
+          "date": "2026-06-15",
+          "popularity": 33
+        },
+        {
+          "date": "2026-06-22",
+          "popularity": 34
+        },
+        {
+          "date": "2026-06-29",
+          "popularity": 34
+        },
+        {
+          "date": "2026-07-06",
+          "popularity": 34
+        },
+        {
+          "date": "2026-07-13",
+          "popularity": 35
+        },
+        {
+          "date": "2026-07-20",
+          "popularity": 35
+        },
+        {
+          "date": "2026-07-27",
+          "popularity": 35
+        },
+        {
+          "date": "2026-08-03",
+          "popularity": 34
+        },
+        {
+          "date": "2026-08-10",
+          "popularity": 34
+        },
+        {
+          "date": "2026-08-17",
+          "popularity": 33
+        },
+        {
+          "date": "2026-08-24",
+          "popularity": 34
+        },
+        {
+          "date": "2026-08-31",
+          "popularity": 34
+        }
+      ]
+    },
+    {
+      "id": "3EUKK3l91NJoJL7ml3EmXa",
+      "name": "Summer Kinda Love",
+      "album": "Audio Fashion",
+      "releaseDate": "2016-06-22",
+      "history": [
+        {
+          "date": "2025-12-12",
+          "popularity": 32
+        },
+        {
+          "date": "2025-12-15",
+          "popularity": 32
+        },
+        {
+          "date": "2025-12-16",
+          "popularity": 32
+        },
+        {
+          "date": "2025-12-17",
+          "popularity": 32
+        },
+        {
+          "date": "2025-12-22",
+          "popularity": 32
+        },
+        {
+          "date": "2025-12-29",
+          "popularity": 30
+        },
+        {
+          "date": "2026-01-05",
+          "popularity": 31
+        },
+        {
+          "date": "2026-01-12",
+          "popularity": 31
+        },
+        {
+          "date": "2026-01-19",
+          "popularity": 30
+        },
+        {
+          "date": "2026-01-26",
+          "popularity": 29
+        },
+        {
+          "date": "2026-02-02",
+          "popularity": 29
+        },
+        {
+          "date": "2026-02-09",
+          "popularity": 29
+        },
+        {
+          "date": "2026-02-16",
+          "popularity": 28
+        },
+        {
+          "date": "2026-02-23",
+          "popularity": 28
+        },
+        {
+          "date": "2026-03-02",
+          "popularity": 27
+        },
+        {
+          "date": "2026-03-09",
+          "popularity": 28
+        },
+        {
+          "date": "2026-03-16",
+          "popularity": 28
+        },
+        {
+          "date": "2026-03-23",
+          "popularity": 28
+        }
+      ]
+    },
+    {
+      "id": "4zA11R5cLsreV42BSzszcQ",
+      "name": "Good Time",
+      "album": "Me",
+      "releaseDate": "2015-06-24",
+      "history": [
+        {
+          "date": "2025-12-12",
+          "popularity": 31
+        },
+        {
+          "date": "2025-12-15",
+          "popularity": 31
+        },
+        {
+          "date": "2025-12-16",
+          "popularity": 31
+        },
+        {
+          "date": "2025-12-17",
+          "popularity": 31
+        },
+        {
+          "date": "2025-12-22",
+          "popularity": 31
+        },
+        {
+          "date": "2025-12-29",
+          "popularity": 30
+        },
+        {
+          "date": "2026-01-05",
+          "popularity": 30
+        },
+        {
+          "date": "2026-01-12",
+          "popularity": 30
+        },
+        {
+          "date": "2026-01-19",
+          "popularity": 30
+        },
+        {
+          "date": "2026-01-26",
+          "popularity": 29
+        },
+        {
+          "date": "2026-02-02",
+          "popularity": 28
+        },
+        {
+          "date": "2026-02-09",
+          "popularity": 28
+        },
+        {
+          "date": "2026-02-16",
+          "popularity": 28
+        },
+        {
+          "date": "2026-02-23",
+          "popularity": 28
+        },
+        {
+          "date": "2026-03-02",
+          "popularity": 28
+        },
+        {
+          "date": "2026-03-09",
+          "popularity": 28
+        },
+        {
+          "date": "2026-03-16",
+          "popularity": 28
+        },
+        {
+          "date": "2026-03-23",
+          "popularity": 28
+        }
+      ]
+    },
+    {
+      "id": "0UqpSch8OnnLOYDYfvJnyZ",
+      "name": "アイナルホウエ",
+      "album": "OUR BEST - YOUR BEST",
+      "releaseDate": "2020-04-22",
+      "history": [
+        {
+          "date": "2025-12-12",
+          "popularity": 32
+        },
+        {
+          "date": "2025-12-15",
+          "popularity": 32
+        },
+        {
+          "date": "2025-12-16",
+          "popularity": 32
+        },
+        {
+          "date": "2025-12-17",
+          "popularity": 32
+        },
+        {
+          "date": "2025-12-22",
+          "popularity": 31
+        },
+        {
+          "date": "2025-12-29",
+          "popularity": 30
+        },
+        {
+          "date": "2026-01-05",
+          "popularity": 31
+        },
+        {
+          "date": "2026-01-12",
+          "popularity": 30
+        },
+        {
+          "date": "2026-01-19",
+          "popularity": 30
+        },
+        {
+          "date": "2026-01-26",
+          "popularity": 30
+        },
+        {
+          "date": "2026-02-02",
+          "popularity": 29
+        },
+        {
+          "date": "2026-02-09",
+          "popularity": 29
+        },
+        {
+          "date": "2026-02-16",
+          "popularity": 28
+        },
+        {
+          "date": "2026-02-23",
+          "popularity": 28
+        },
+        {
+          "date": "2026-03-02",
+          "popularity": 28
+        },
+        {
+          "date": "2026-03-09",
+          "popularity": 28
+        },
+        {
+          "date": "2026-03-16",
+          "popularity": 28
+        },
+        {
+          "date": "2026-03-23",
+          "popularity": 29
+        }
+      ]
+    },
+    {
+      "id": "3hchk9gxfZ2VzGCUnGZyK3",
+      "name": "LOVEJUICE",
+      "album": "DON'T U EVER STOP (Special Edition)",
+      "releaseDate": "2008-05-14",
+      "history": [
+        {
+          "date": "2026-03-30",
+          "popularity": 40
+        },
+        {
+          "date": "2026-04-06",
+          "popularity": 41
+        },
+        {
+          "date": "2026-04-13",
+          "popularity": 41
+        },
+        {
+          "date": "2026-04-20",
+          "popularity": 41
+        },
+        {
+          "date": "2026-04-27",
+          "popularity": 40
+        },
+        {
+          "date": "2026-05-04",
+          "popularity": 39
+        },
+        {
+          "date": "2026-05-11",
+          "popularity": 39
+        },
+        {
+          "date": "2026-05-18",
+          "popularity": 39
+        },
+        {
+          "date": "2026-05-25",
+          "popularity": 38
+        },
+        {
+          "date": "2026-06-01",
+          "popularity": 38
+        },
+        {
+          "date": "2026-06-08",
+          "popularity": 38
+        },
+        {
+          "date": "2026-06-15",
+          "popularity": 38
+        },
+        {
+          "date": "2026-06-22",
+          "popularity": 37
+        },
+        {
+          "date": "2026-06-29",
+          "popularity": 37
+        },
+        {
+          "date": "2026-07-06",
+          "popularity": 37
+        },
+        {
+          "date": "2026-07-13",
+          "popularity": 37
+        },
+        {
+          "date": "2026-07-20",
+          "popularity": 37
+        },
+        {
+          "date": "2026-07-27",
+          "popularity": 37
+        },
+        {
+          "date": "2026-08-03",
+          "popularity": 36
+        },
+        {
+          "date": "2026-08-10",
+          "popularity": 36
+        },
+        {
+          "date": "2026-08-17",
+          "popularity": 35
+        },
+        {
+          "date": "2026-08-24",
+          "popularity": 35
+        },
+        {
+          "date": "2026-08-31",
+          "popularity": 36
+        }
+      ]
+    },
+    {
+      "id": "4XKyFsUFqlYQXHzGmiGqAq",
+      "name": "BUTTERFLY",
+      "album": "Best of KAT-TUN",
+      "releaseDate": "2006-03-22",
+      "history": [
+        {
+          "date": "2026-03-30",
+          "popularity": 39
+        },
+        {
+          "date": "2026-04-06",
+          "popularity": 41
+        },
+        {
+          "date": "2026-04-13",
+          "popularity": 41
+        },
+        {
+          "date": "2026-04-20",
+          "popularity": 40
+        },
+        {
+          "date": "2026-04-27",
+          "popularity": 39
+        },
+        {
+          "date": "2026-05-04",
+          "popularity": 38
+        },
+        {
+          "date": "2026-05-11",
+          "popularity": 38
+        },
+        {
+          "date": "2026-05-18",
+          "popularity": 37
+        },
+        {
+          "date": "2026-05-25",
+          "popularity": 37
+        },
+        {
+          "date": "2026-06-01",
+          "popularity": 37
+        },
+        {
+          "date": "2026-06-08",
+          "popularity": 36
+        },
+        {
+          "date": "2026-06-15",
+          "popularity": 36
+        },
+        {
+          "date": "2026-06-22",
+          "popularity": 36
+        },
+        {
+          "date": "2026-06-29",
+          "popularity": 36
+        },
+        {
+          "date": "2026-07-06",
+          "popularity": 36
+        },
+        {
+          "date": "2026-07-13",
+          "popularity": 36
+        },
+        {
+          "date": "2026-07-20",
+          "popularity": 36
+        },
+        {
+          "date": "2026-07-27",
+          "popularity": 36
+        },
+        {
+          "date": "2026-08-03",
+          "popularity": 35
+        },
+        {
+          "date": "2026-08-10",
+          "popularity": 35
+        },
+        {
+          "date": "2026-08-17",
+          "popularity": 35
+        },
+        {
+          "date": "2026-08-24",
+          "popularity": 35
+        },
+        {
+          "date": "2026-08-31",
+          "popularity": 35
+        }
+      ]
+    },
+    {
+      "id": "1twuzdUosPYlaydLRoHUbk",
+      "name": "care",
+      "album": "Break the Records -by you & for you-",
+      "releaseDate": "2009-04-29",
+      "history": [
+        {
+          "date": "2026-03-30",
+          "popularity": 37
+        },
+        {
+          "date": "2026-04-06",
+          "popularity": 39
+        },
+        {
+          "date": "2026-04-13",
+          "popularity": 39
+        },
+        {
+          "date": "2026-04-20",
+          "popularity": 39
+        },
+        {
+          "date": "2026-04-27",
+          "popularity": 38
+        },
+        {
+          "date": "2026-05-04",
+          "popularity": 37
+        },
+        {
+          "date": "2026-05-11",
+          "popularity": 37
+        },
+        {
+          "date": "2026-05-18",
+          "popularity": 37
+        },
+        {
+          "date": "2026-05-25",
+          "popularity": 36
+        },
+        {
+          "date": "2026-06-01",
+          "popularity": 36
+        },
+        {
+          "date": "2026-06-08",
+          "popularity": 36
+        },
+        {
+          "date": "2026-06-15",
+          "popularity": 36
+        },
+        {
+          "date": "2026-06-22",
+          "popularity": 36
+        },
+        {
+          "date": "2026-06-29",
+          "popularity": 35
+        },
+        {
+          "date": "2026-07-06",
+          "popularity": 35
+        },
+        {
+          "date": "2026-07-13",
+          "popularity": 35
+        },
+        {
+          "date": "2026-07-20",
+          "popularity": 35
+        },
+        {
+          "date": "2026-07-27",
+          "popularity": 34
+        },
+        {
+          "date": "2026-08-03",
+          "popularity": 34
+        },
+        {
+          "date": "2026-08-10",
+          "popularity": 33
+        },
+        {
+          "date": "2026-08-17",
+          "popularity": 33
+        },
+        {
+          "date": "2026-08-24",
+          "popularity": 33
+        },
+        {
+          "date": "2026-08-31",
+          "popularity": 33
+        }
+      ]
+    }
+  ]
+}
