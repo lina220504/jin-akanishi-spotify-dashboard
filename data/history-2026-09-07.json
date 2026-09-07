@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-07T03:10:16.607Z",
+  "lastUpdated": "2026-09-07T03:34:14.147Z",
   "artist": {
     "id": "5gSFxPK5Te7WRIKL5CEWos",
     "name": "Jin Akanishi",
@@ -4683,6 +4683,31 @@
       "owner": "事務所セトリ"
     },
     {
+      "id": "5CRKUdJyWvhc562R5V70zM",
+      "name": "西城秀樹  シングル曲  マイベスト",
+      "description": "Thank you for your brilliant vocal performance , Hideki Saijo 💐",
+      "followers": 0,
+      "tracks_total": 41,
+      "images": [
+        {
+          "height": 640,
+          "url": "https://mosaic.scdn.co/640/ab67616d00001e025a51baa1d348c909a93bb26dab67616d00001e02c46357fb349134665b5f037aab67616d00001e02e400f2cc0a89d7d69206364fab67616d00001e02ea071734ec9808e362821b77",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://mosaic.scdn.co/300/ab67616d00001e025a51baa1d348c909a93bb26dab67616d00001e02c46357fb349134665b5f037aab67616d00001e02e400f2cc0a89d7d69206364fab67616d00001e02ea071734ec9808e362821b77",
+          "width": 300
+        },
+        {
+          "height": 60,
+          "url": "https://mosaic.scdn.co/60/ab67616d00001e025a51baa1d348c909a93bb26dab67616d00001e02c46357fb349134665b5f037aab67616d00001e02e400f2cc0a89d7d69206364fab67616d00001e02ea071734ec9808e362821b77",
+          "width": 60
+        }
+      ],
+      "owner": "barlin2525 (Ver.2)"
+    },
+    {
       "id": "2p0l72tJatHMEGW6a6d3fu",
       "name": "河西健吾",
       "description": "",
@@ -4791,21 +4816,6 @@
         }
       ],
       "owner": "Rikuharurai"
-    },
-    {
-      "id": "4kKfdOjqfjaQYqo1f30ImZ",
-      "name": "中西圭三 / ベスト•シングル•コレクション (CD)",
-      "description": "",
-      "followers": 0,
-      "tracks_total": 17,
-      "images": [
-        {
-          "height": null,
-          "url": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000da84460475ee55fedcf69fdbf90c",
-          "width": null
-        }
-      ],
-      "owner": "Elwood.yk"
     },
     {
       "id": "4DmDwsq2FVbPUAJp8Qi2qs",
