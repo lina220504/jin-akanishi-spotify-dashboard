@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-14T03:38:28.092Z",
+  "lastUpdated": "2026-09-14T03:58:49.459Z",
   "artist": {
     "id": "5gSFxPK5Te7WRIKL5CEWos",
     "name": "Jin Akanishi",
@@ -4276,7 +4276,7 @@
       "images": [
         {
           "height": null,
-          "url": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000da84a61b29385ed99ab4be48b4e7",
+          "url": "https://image-cdn-fa.spotifycdn.com/image/ab67706c0000da84a61b29385ed99ab4be48b4e7",
           "width": null
         }
       ],
@@ -4638,31 +4638,6 @@
       "owner": "M..m"
     },
     {
-      "id": "1m8yHbnBNey5D9HIzvPSga",
-      "name": "吉田仁人　全曲(2026/06/08更新)",
-      "description": "仁人くんの歌を集めました",
-      "followers": 0,
-      "tracks_total": 11,
-      "images": [
-        {
-          "height": 640,
-          "url": "https://mosaic.scdn.co/640/ab67616d00001e023e21c16dacd4d142b8c2a822ab67616d00001e025143fda9a67b19ec706418a0ab67616d00001e02911a5b0496c641ff37b3fd7fab67616d00001e02f6dfddd212637ea499e678e4",
-          "width": 640
-        },
-        {
-          "height": 300,
-          "url": "https://mosaic.scdn.co/300/ab67616d00001e023e21c16dacd4d142b8c2a822ab67616d00001e025143fda9a67b19ec706418a0ab67616d00001e02911a5b0496c641ff37b3fd7fab67616d00001e02f6dfddd212637ea499e678e4",
-          "width": 300
-        },
-        {
-          "height": 60,
-          "url": "https://mosaic.scdn.co/60/ab67616d00001e023e21c16dacd4d142b8c2a822ab67616d00001e025143fda9a67b19ec706418a0ab67616d00001e02911a5b0496c641ff37b3fd7fab67616d00001e02f6dfddd212637ea499e678e4",
-          "width": 60
-        }
-      ],
-      "owner": "霧"
-    },
-    {
       "id": "5CRKUdJyWvhc562R5V70zM",
       "name": "西城秀樹  シングル曲  マイベスト",
       "description": "Thank you for your brilliant vocal performance , Hideki Saijo 💐",
@@ -4716,6 +4691,21 @@
         }
       ],
       "owner": "筋肉太郎"
+    },
+    {
+      "id": "3dCODZzzSe5vDgRzuUnAsl",
+      "name": "秒速5センチメートル",
+      "description": "",
+      "followers": 0,
+      "tracks_total": 13,
+      "images": [
+        {
+          "height": null,
+          "url": "https://i.scdn.co/image/ab67616d00001e0293f5386e7c4eeec19a33e9cc",
+          "width": null
+        }
+      ],
+      "owner": "よーた"
     },
     {
       "id": "0ISHAK5rltx5Vc2RcvQhBr",
@@ -4783,6 +4773,31 @@
       "owner": "Ayako Maeda"
     },
     {
+      "id": "5vtoAbaXR31x53GgpsCFp0",
+      "name": "高尾山nd",
+      "description": "",
+      "followers": 0,
+      "tracks_total": 58,
+      "images": [
+        {
+          "height": 640,
+          "url": "https://mosaic.scdn.co/640/ab67616d00001e020e80013da9932a0def03339bab67616d00001e0213fa537847ebfc3736c0fedcab67616d00001e023a95500884717b008d00da72ab67616d00001e02e4e7c134331c27934c961295",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://mosaic.scdn.co/300/ab67616d00001e020e80013da9932a0def03339bab67616d00001e0213fa537847ebfc3736c0fedcab67616d00001e023a95500884717b008d00da72ab67616d00001e02e4e7c134331c27934c961295",
+          "width": 300
+        },
+        {
+          "height": 60,
+          "url": "https://mosaic.scdn.co/60/ab67616d00001e020e80013da9932a0def03339bab67616d00001e0213fa537847ebfc3736c0fedcab67616d00001e023a95500884717b008d00da72ab67616d00001e02e4e7c134331c27934c961295",
+          "width": 60
+        }
+      ],
+      "owner": "マリア"
+    },
+    {
       "id": "2rxCPFooWQ0C4gVT0tEC3U",
       "name": "西川貴教全曲",
       "description": "",
@@ -4823,31 +4838,6 @@
       "owner": "Rikuharurai"
     },
     {
-      "id": "4DmDwsq2FVbPUAJp8Qi2qs",
-      "name": "香西かおりベスト",
-      "description": "",
-      "followers": 0,
-      "tracks_total": 54,
-      "images": [
-        {
-          "height": 640,
-          "url": "https://mosaic.scdn.co/640/ab67616d00001e023ba33786343232fdd1c3ad8dab67616d00001e024ae4ffced0272b01a6a36c2cab67616d00001e0254e9e337306efaf3570ada98ab67616d00001e026df2267651847962c740ca79",
-          "width": 640
-        },
-        {
-          "height": 300,
-          "url": "https://mosaic.scdn.co/300/ab67616d00001e023ba33786343232fdd1c3ad8dab67616d00001e024ae4ffced0272b01a6a36c2cab67616d00001e0254e9e337306efaf3570ada98ab67616d00001e026df2267651847962c740ca79",
-          "width": 300
-        },
-        {
-          "height": 60,
-          "url": "https://mosaic.scdn.co/60/ab67616d00001e023ba33786343232fdd1c3ad8dab67616d00001e024ae4ffced0272b01a6a36c2cab67616d00001e0254e9e337306efaf3570ada98ab67616d00001e026df2267651847962c740ca79",
-          "width": 60
-        }
-      ],
-      "owner": "Smcattu"
-    },
-    {
       "id": "4kKfdOjqfjaQYqo1f30ImZ",
       "name": "中西圭三 / ベスト•シングル•コレクション (CD)",
       "description": "",
@@ -4856,7 +4846,7 @@
       "images": [
         {
           "height": null,
-          "url": "https://image-cdn-fa.spotifycdn.com/image/ab67706c0000d72c460475ee55fedcf69fdbf90c",
+          "url": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000d72c460475ee55fedcf69fdbf90c",
           "width": null
         }
       ],
