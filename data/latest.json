@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-21T03:35:49.472Z",
+  "lastUpdated": "2026-09-21T03:58:35.357Z",
   "artist": {
     "id": "5gSFxPK5Te7WRIKL5CEWos",
     "name": "Jin Akanishi",
@@ -4143,21 +4143,6 @@
       "owner": "nyanko🐾🐾"
     },
     {
-      "id": "0mVgDwTq74sM3iEJTjNZGJ",
-      "name": "赤西仁 ライブ JIN AKANISHI HEART LIVE 2026",
-      "description": "",
-      "followers": 0,
-      "tracks_total": 17,
-      "images": [
-        {
-          "height": null,
-          "url": "https://image-cdn-fa.spotifycdn.com/image/ab67706c0000da84d28f4ee771ec9f96488a53d3",
-          "width": null
-        }
-      ],
-      "owner": "うめちゃん"
-    },
-    {
       "id": "4FKP4iJ2JlHHQlegHHgunj",
       "name": "赤西仁ベスト",
       "description": "",
@@ -4181,6 +4166,21 @@
         }
       ],
       "owner": "msin"
+    },
+    {
+      "id": "0mVgDwTq74sM3iEJTjNZGJ",
+      "name": "赤西仁 ライブ JIN AKANISHI HEART LIVE 2026",
+      "description": "",
+      "followers": 0,
+      "tracks_total": 17,
+      "images": [
+        {
+          "height": null,
+          "url": "https://image-cdn-fa.spotifycdn.com/image/ab67706c0000da84d28f4ee771ec9f96488a53d3",
+          "width": null
+        }
+      ],
+      "owner": "うめちゃん"
     },
     {
       "id": "1bYICc1kL3Tkl4C5JNNICZ",
@@ -4783,21 +4783,6 @@
       "owner": "筋肉太郎"
     },
     {
-      "id": "3dCODZzzSe5vDgRzuUnAsl",
-      "name": "秒速5センチメートル",
-      "description": "",
-      "followers": 0,
-      "tracks_total": 13,
-      "images": [
-        {
-          "height": null,
-          "url": "https://i.scdn.co/image/ab67616d00001e0293f5386e7c4eeec19a33e9cc",
-          "width": null
-        }
-      ],
-      "owner": "よーた"
-    },
-    {
       "id": "4JlsyZ4gKdcGpNh5yi1qvU",
       "name": "椎木知仁",
       "description": "",
@@ -4811,6 +4796,21 @@
         }
       ],
       "owner": "零央"
+    },
+    {
+      "id": "4sNirg9mYXQem4QCR2Osha",
+      "name": "仁-JIN-サントラ",
+      "description": "",
+      "followers": 0,
+      "tracks_total": 41,
+      "images": [
+        {
+          "height": null,
+          "url": "https://i.scdn.co/image/ab67616d00001e0204a76c844e460216ba53a171",
+          "width": null
+        }
+      ],
+      "owner": "Maka-Ronron"
     },
     {
       "id": "2rxCPFooWQ0C4gVT0tEC3U",
@@ -4891,6 +4891,21 @@
         }
       ],
       "owner": "Rikuharurai"
+    },
+    {
+      "id": "2lnYYfhoQdgKUVlqPV2MD8",
+      "name": "徐仁國",
+      "description": "",
+      "followers": 0,
+      "tracks_total": 43,
+      "images": [
+        {
+          "height": null,
+          "url": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000da84a07bc0d6273042590e14625e",
+          "width": null
+        }
+      ],
+      "owner": "LEENANA"
     }
   ]
 }
