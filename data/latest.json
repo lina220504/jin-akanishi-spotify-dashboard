@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-28T03:57:45.560Z",
+  "lastUpdated": "2026-09-28T04:21:49.662Z",
   "artist": {
     "id": "5gSFxPK5Te7WRIKL5CEWos",
     "name": "Jin Akanishi",
@@ -4658,6 +4658,31 @@
       "owner": "霧"
     },
     {
+      "id": "0cADpnjhOtCMFOh1bcMA8i",
+      "name": "武尊、那須川天心、堀口恭司 、井上尚弥　入場曲　ほか",
+      "description": "",
+      "followers": 0,
+      "tracks_total": 11,
+      "images": [
+        {
+          "height": 640,
+          "url": "https://mosaic.scdn.co/640/ab67616d00001e0206c91fb4f323152467473d4aab67616d00001e02a6c0ee37c4c416f1269b043dab67616d00001e02bc805cd88b018b0adaec9a8cab67616d00001e02d09a63a0cbbb0944da0f3860",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://mosaic.scdn.co/300/ab67616d00001e0206c91fb4f323152467473d4aab67616d00001e02a6c0ee37c4c416f1269b043dab67616d00001e02bc805cd88b018b0adaec9a8cab67616d00001e02d09a63a0cbbb0944da0f3860",
+          "width": 300
+        },
+        {
+          "height": 60,
+          "url": "https://mosaic.scdn.co/60/ab67616d00001e0206c91fb4f323152467473d4aab67616d00001e02a6c0ee37c4c416f1269b043dab67616d00001e02bc805cd88b018b0adaec9a8cab67616d00001e02d09a63a0cbbb0944da0f3860",
+          "width": 60
+        }
+      ],
+      "owner": "Takahara Yuuki"
+    },
+    {
       "id": "5CRKUdJyWvhc562R5V70zM",
       "name": "西城秀樹  シングル曲  マイベスト",
       "description": "Thank you for your brilliant vocal performance , Hideki Saijo 💐",
@@ -4681,21 +4706,6 @@
         }
       ],
       "owner": "barlin2525 (Ver.2)"
-    },
-    {
-      "id": "0QY1TIxcF62ABTd6BbyMUP",
-      "name": "JIN　仁　曲",
-      "description": "",
-      "followers": 0,
-      "tracks_total": 8,
-      "images": [
-        {
-          "height": null,
-          "url": "https://image-cdn-fa.spotifycdn.com/image/ab67706c0000da84715b6b704402917ee2a0c356",
-          "width": null
-        }
-      ],
-      "owner": "筋肉太郎"
     },
     {
       "id": "3dCODZzzSe5vDgRzuUnAsl",
