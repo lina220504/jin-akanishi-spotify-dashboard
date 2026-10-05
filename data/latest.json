@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-05T04:20:59.685Z",
+  "lastUpdated": "2026-10-05T04:42:09.049Z",
   "artist": {
     "id": "5gSFxPK5Te7WRIKL5CEWos",
     "name": "Jin Akanishi",
@@ -4111,7 +4111,7 @@
       "images": [
         {
           "height": null,
-          "url": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000d72c2180a695c59a6effa37a19ce",
+          "url": "https://image-cdn-fa.spotifycdn.com/image/ab67706c0000d72c2180a695c59a6effa37a19ce",
           "width": null
         }
       ],
@@ -4208,6 +4208,31 @@
       "owner": "keeko"
     },
     {
+      "id": "5gL2TerOkh8QKTfTGObj7q",
+      "name": "平成ジャニーズ黄金期",
+      "description": "",
+      "followers": 0,
+      "tracks_total": 6,
+      "images": [
+        {
+          "height": 640,
+          "url": "https://mosaic.scdn.co/640/ab67616d00001e0205d87f9a5ecf25186a650ed8ab67616d00001e027617c160c9a4cc091084ef28ab67616d00001e02ed84c126782a751ce13370b4ab67616d00001e02fe6cc06fc4c3be17fe04777b",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://mosaic.scdn.co/300/ab67616d00001e0205d87f9a5ecf25186a650ed8ab67616d00001e027617c160c9a4cc091084ef28ab67616d00001e02ed84c126782a751ce13370b4ab67616d00001e02fe6cc06fc4c3be17fe04777b",
+          "width": 300
+        },
+        {
+          "height": 60,
+          "url": "https://mosaic.scdn.co/60/ab67616d00001e0205d87f9a5ecf25186a650ed8ab67616d00001e027617c160c9a4cc091084ef28ab67616d00001e02ed84c126782a751ce13370b4ab67616d00001e02fe6cc06fc4c3be17fe04777b",
+          "width": 60
+        }
+      ],
+      "owner": "めいり💞"
+    },
+    {
       "id": "5yOfLsQDg202OHV65Vlrid",
       "name": "KATーTUN 赤西仁",
       "description": "",
@@ -4286,31 +4311,6 @@
         }
       ],
       "owner": "宮崎 樹"
-    },
-    {
-      "id": "5gL2TerOkh8QKTfTGObj7q",
-      "name": "平成ジャニーズ黄金期",
-      "description": "",
-      "followers": 0,
-      "tracks_total": 6,
-      "images": [
-        {
-          "height": 640,
-          "url": "https://mosaic.scdn.co/640/ab67616d00001e0205d87f9a5ecf25186a650ed8ab67616d00001e027617c160c9a4cc091084ef28ab67616d00001e02ed84c126782a751ce13370b4ab67616d00001e02fe6cc06fc4c3be17fe04777b",
-          "width": 640
-        },
-        {
-          "height": 300,
-          "url": "https://mosaic.scdn.co/300/ab67616d00001e0205d87f9a5ecf25186a650ed8ab67616d00001e027617c160c9a4cc091084ef28ab67616d00001e02ed84c126782a751ce13370b4ab67616d00001e02fe6cc06fc4c3be17fe04777b",
-          "width": 300
-        },
-        {
-          "height": 60,
-          "url": "https://mosaic.scdn.co/60/ab67616d00001e0205d87f9a5ecf25186a650ed8ab67616d00001e027617c160c9a4cc091084ef28ab67616d00001e02ed84c126782a751ce13370b4ab67616d00001e02fe6cc06fc4c3be17fe04777b",
-          "width": 60
-        }
-      ],
-      "owner": "めいり💞"
     },
     {
       "id": "07NHFy6fiazXgPNQ3p8XGQ",
