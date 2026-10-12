@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-12T04:35:56.308Z",
+  "lastUpdated": "2026-10-12T04:59:45.566Z",
   "artist": {
     "id": "5gSFxPK5Te7WRIKL5CEWos",
     "name": "Jin Akanishi",
@@ -4258,31 +4258,6 @@
       "owner": "ママ"
     },
     {
-      "id": "1bYICc1kL3Tkl4C5JNNICZ",
-      "name": "JIN AKANISHI LIVE TOUR 2025 RED WEST",
-      "description": "赤西仁",
-      "followers": 0,
-      "tracks_total": 18,
-      "images": [
-        {
-          "height": 640,
-          "url": "https://mosaic.scdn.co/640/ab67616d00001e024374012d0e03109cf3e7d0b4ab67616d00001e027f1c40652d39f6f2504a0943ab67616d00001e02ea037b3edc01f7dbe01e2967ab67616d00001e02fdec3d858182b711d56c7844",
-          "width": 640
-        },
-        {
-          "height": 300,
-          "url": "https://mosaic.scdn.co/300/ab67616d00001e024374012d0e03109cf3e7d0b4ab67616d00001e027f1c40652d39f6f2504a0943ab67616d00001e02ea037b3edc01f7dbe01e2967ab67616d00001e02fdec3d858182b711d56c7844",
-          "width": 300
-        },
-        {
-          "height": 60,
-          "url": "https://mosaic.scdn.co/60/ab67616d00001e024374012d0e03109cf3e7d0b4ab67616d00001e027f1c40652d39f6f2504a0943ab67616d00001e02ea037b3edc01f7dbe01e2967ab67616d00001e02fdec3d858182b711d56c7844",
-          "width": 60
-        }
-      ],
-      "owner": "keeko"
-    },
-    {
       "id": "5uvdE8bJfMQo8an0sk4FAO",
       "name": "山下智久　全曲",
       "description": "",
@@ -4306,6 +4281,31 @@
         }
       ],
       "owner": "RM"
+    },
+    {
+      "id": "1bYICc1kL3Tkl4C5JNNICZ",
+      "name": "JIN AKANISHI LIVE TOUR 2025 RED WEST",
+      "description": "赤西仁",
+      "followers": 0,
+      "tracks_total": 18,
+      "images": [
+        {
+          "height": 640,
+          "url": "https://mosaic.scdn.co/640/ab67616d00001e024374012d0e03109cf3e7d0b4ab67616d00001e027f1c40652d39f6f2504a0943ab67616d00001e02ea037b3edc01f7dbe01e2967ab67616d00001e02fdec3d858182b711d56c7844",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://mosaic.scdn.co/300/ab67616d00001e024374012d0e03109cf3e7d0b4ab67616d00001e027f1c40652d39f6f2504a0943ab67616d00001e02ea037b3edc01f7dbe01e2967ab67616d00001e02fdec3d858182b711d56c7844",
+          "width": 300
+        },
+        {
+          "height": 60,
+          "url": "https://mosaic.scdn.co/60/ab67616d00001e024374012d0e03109cf3e7d0b4ab67616d00001e027f1c40652d39f6f2504a0943ab67616d00001e02ea037b3edc01f7dbe01e2967ab67616d00001e02fdec3d858182b711d56c7844",
+          "width": 60
+        }
+      ],
+      "owner": "keeko"
     },
     {
       "id": "5z9kzU9Xr8hnL8ATP4EGsy",
@@ -4736,6 +4736,21 @@
         }
       ],
       "owner": "よーた"
+    },
+    {
+      "id": "357q86tdUrdMB076I2MkgJ",
+      "name": "吉田仁人 全曲",
+      "description": "最終編集: 6&#x2F;26 　6&#x2F;7「東京」追加！ (ビクターエンターテイメント &#x2F; Colourful Records) ※未追加曲ありましたらDMで！",
+      "followers": 0,
+      "tracks_total": 11,
+      "images": [
+        {
+          "height": null,
+          "url": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000da84c7322c9de5c40a564295359c",
+          "width": null
+        }
+      ],
+      "owner": "Haruto"
     },
     {
       "id": "0QY1TIxcF62ABTd6BbyMUP",
