@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-26T03:28:43.750Z",
+  "lastUpdated": "2026-10-26T03:49:44.596Z",
   "artist": {
     "id": "5gSFxPK5Te7WRIKL5CEWos",
     "name": "Jin Akanishi",
@@ -4071,7 +4071,7 @@
       "images": [
         {
           "height": null,
-          "url": "https://image-cdn-fa.spotifycdn.com/image/ab67706c0000d72c2180a695c59a6effa37a19ce",
+          "url": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000da842180a695c59a6effa37a19ce",
           "width": null
         }
       ],
@@ -4326,7 +4326,7 @@
       "images": [
         {
           "height": null,
-          "url": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000da842b90c74727d3a8722fcc0352",
+          "url": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000d72c2b90c74727d3a8722fcc0352",
           "width": null
         }
       ],
@@ -4723,31 +4723,6 @@
       "owner": "りょー"
     },
     {
-      "id": "1m8yHbnBNey5D9HIzvPSga",
-      "name": "吉田仁人　全曲(2026/06/08更新)",
-      "description": "仁人くんの歌を集めました",
-      "followers": 0,
-      "tracks_total": 11,
-      "images": [
-        {
-          "height": 640,
-          "url": "https://mosaic.scdn.co/640/ab67616d00001e023e21c16dacd4d142b8c2a822ab67616d00001e025143fda9a67b19ec706418a0ab67616d00001e02911a5b0496c641ff37b3fd7fab67616d00001e02f6dfddd212637ea499e678e4",
-          "width": 640
-        },
-        {
-          "height": 300,
-          "url": "https://mosaic.scdn.co/300/ab67616d00001e023e21c16dacd4d142b8c2a822ab67616d00001e025143fda9a67b19ec706418a0ab67616d00001e02911a5b0496c641ff37b3fd7fab67616d00001e02f6dfddd212637ea499e678e4",
-          "width": 300
-        },
-        {
-          "height": 60,
-          "url": "https://mosaic.scdn.co/60/ab67616d00001e023e21c16dacd4d142b8c2a822ab67616d00001e025143fda9a67b19ec706418a0ab67616d00001e02911a5b0496c641ff37b3fd7fab67616d00001e02f6dfddd212637ea499e678e4",
-          "width": 60
-        }
-      ],
-      "owner": "霧"
-    },
-    {
       "id": "3dCODZzzSe5vDgRzuUnAsl",
       "name": "秒速5センチメートル",
       "description": "",
@@ -4761,6 +4736,21 @@
         }
       ],
       "owner": "よーた"
+    },
+    {
+      "id": "357q86tdUrdMB076I2MkgJ",
+      "name": "吉田仁人 全曲",
+      "description": "最終編集: 6&#x2F;26 　6&#x2F;7「東京」追加！ (ビクターエンターテイメント &#x2F; Colourful Records) ※未追加曲ありましたらDMで！",
+      "followers": 0,
+      "tracks_total": 11,
+      "images": [
+        {
+          "height": null,
+          "url": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000da84c7322c9de5c40a564295359c",
+          "width": null
+        }
+      ],
+      "owner": "Haruto"
     },
     {
       "id": "0QY1TIxcF62ABTd6BbyMUP",
@@ -4918,21 +4908,6 @@
       "owner": "零央"
     },
     {
-      "id": "4kKfdOjqfjaQYqo1f30ImZ",
-      "name": "中西圭三 / ベスト•シングル•コレクション (CD)",
-      "description": "",
-      "followers": 0,
-      "tracks_total": 17,
-      "images": [
-        {
-          "height": null,
-          "url": "https://image-cdn-fa.spotifycdn.com/image/ab67706c0000d72c460475ee55fedcf69fdbf90c",
-          "width": null
-        }
-      ],
-      "owner": "Elwood.yk"
-    },
-    {
       "id": "1eymq7d1KSAXE9jNYAuO7K",
       "name": "誠仁",
       "description": "",
@@ -4941,7 +4916,7 @@
       "images": [
         {
           "height": null,
-          "url": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000da84e84e585f2d9c5dea2e11fbb1",
+          "url": "https://image-cdn-fa.spotifycdn.com/image/ab67706c0000da84e84e585f2d9c5dea2e11fbb1",
           "width": null
         }
       ],
