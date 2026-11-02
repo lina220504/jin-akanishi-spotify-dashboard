@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-11-02T04:42:13.193Z",
+  "lastUpdated": "2026-11-02T04:59:59.359Z",
   "artist": {
     "id": "5gSFxPK5Te7WRIKL5CEWos",
     "name": "Jin Akanishi",
@@ -4643,6 +4643,21 @@
       "owner": "よーた"
     },
     {
+      "id": "357q86tdUrdMB076I2MkgJ",
+      "name": "吉田仁人 全曲",
+      "description": "最終編集: 6&#x2F;26 　6&#x2F;7「東京」追加！ (ビクターエンターテイメント &#x2F; Colourful Records)",
+      "followers": 0,
+      "tracks_total": 11,
+      "images": [
+        {
+          "height": null,
+          "url": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000da84c7322c9de5c40a564295359c",
+          "width": null
+        }
+      ],
+      "owner": "Haruto"
+    },
+    {
       "id": "0QY1TIxcF62ABTd6BbyMUP",
       "name": "JIN　仁　曲",
       "description": "",
@@ -4683,19 +4698,29 @@
       "owner": "barlin2525 (Ver.2)"
     },
     {
-      "id": "4sNirg9mYXQem4QCR2Osha",
-      "name": "仁-JIN-サントラ",
+      "id": "6Th7NBdEXErkS28fF5aGd8",
+      "name": "関西ジャニーズ",
       "description": "",
       "followers": 0,
-      "tracks_total": 41,
+      "tracks_total": 49,
       "images": [
         {
-          "height": null,
-          "url": "https://i.scdn.co/image/ab67616d00001e0204a76c844e460216ba53a171",
-          "width": null
+          "height": 640,
+          "url": "https://mosaic.scdn.co/640/ab67616d00001e0222fd6d436060462eccb7d199ab67616d00001e02252628a369e290a29b95e2aeab67616d00001e02886e35a2a1c5217a7e5536b1ab67616d00001e02d25c8d30fb753c1b9aab5322",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://mosaic.scdn.co/300/ab67616d00001e0222fd6d436060462eccb7d199ab67616d00001e02252628a369e290a29b95e2aeab67616d00001e02886e35a2a1c5217a7e5536b1ab67616d00001e02d25c8d30fb753c1b9aab5322",
+          "width": 300
+        },
+        {
+          "height": 60,
+          "url": "https://mosaic.scdn.co/60/ab67616d00001e0222fd6d436060462eccb7d199ab67616d00001e02252628a369e290a29b95e2aeab67616d00001e02886e35a2a1c5217a7e5536b1ab67616d00001e02d25c8d30fb753c1b9aab5322",
+          "width": 60
         }
       ],
-      "owner": "Maka-Ronron"
+      "owner": "Kmi"
     },
     {
       "id": "4JlsyZ4gKdcGpNh5yi1qvU",
@@ -4711,21 +4736,6 @@
         }
       ],
       "owner": "零央"
-    },
-    {
-      "id": "2McXtN7tbpFUzgSaZqJt27",
-      "name": "西部警察",
-      "description": "",
-      "followers": 0,
-      "tracks_total": 13,
-      "images": [
-        {
-          "height": null,
-          "url": "https://image-cdn-fa.spotifycdn.com/image/ab67706c0000da84e028f92480365b22bc0babf8",
-          "width": null
-        }
-      ],
-      "owner": "Fujiexample"
     },
     {
       "id": "2rxCPFooWQ0C4gVT0tEC3U",
@@ -4793,54 +4803,19 @@
       "owner": "Rikuharurai"
     },
     {
-      "id": "0t3wQeOLRKkfm3ZdjJWT3R",
-      "name": "関西jr",
+      "id": "4kKfdOjqfjaQYqo1f30ImZ",
+      "name": "中西圭三 / ベスト•シングル•コレクション (CD)",
       "description": "",
       "followers": 0,
-      "tracks_total": 88,
+      "tracks_total": 17,
       "images": [
         {
-          "height": 640,
-          "url": "https://mosaic.scdn.co/640/ab67616d00001e02884f9f244cdd88579651fd48ab67616d00001e02a5307a57046849dd1b8c89ffab67616d00001e02c963610da94a461576570a4dab67616d00001e02da8b976fba144eb65c554c57",
-          "width": 640
-        },
-        {
-          "height": 300,
-          "url": "https://mosaic.scdn.co/300/ab67616d00001e02884f9f244cdd88579651fd48ab67616d00001e02a5307a57046849dd1b8c89ffab67616d00001e02c963610da94a461576570a4dab67616d00001e02da8b976fba144eb65c554c57",
-          "width": 300
-        },
-        {
-          "height": 60,
-          "url": "https://mosaic.scdn.co/60/ab67616d00001e02884f9f244cdd88579651fd48ab67616d00001e02a5307a57046849dd1b8c89ffab67616d00001e02c963610da94a461576570a4dab67616d00001e02da8b976fba144eb65c554c57",
-          "width": 60
+          "height": null,
+          "url": "https://image-cdn-fa.spotifycdn.com/image/ab67706c0000da84460475ee55fedcf69fdbf90c",
+          "width": null
         }
       ],
-      "owner": "うか"
-    },
-    {
-      "id": "6hFfVH1kwfc0GvTloF1bOg",
-      "name": "仁人",
-      "description": "",
-      "followers": 0,
-      "tracks_total": 61,
-      "images": [
-        {
-          "height": 640,
-          "url": "https://mosaic.scdn.co/640/ab67616d00001e023e21c16dacd4d142b8c2a822ab67616d00001e025143fda9a67b19ec706418a0ab67616d00001e02911a5b0496c641ff37b3fd7fab67616d00001e02f6dfddd212637ea499e678e4",
-          "width": 640
-        },
-        {
-          "height": 300,
-          "url": "https://mosaic.scdn.co/300/ab67616d00001e023e21c16dacd4d142b8c2a822ab67616d00001e025143fda9a67b19ec706418a0ab67616d00001e02911a5b0496c641ff37b3fd7fab67616d00001e02f6dfddd212637ea499e678e4",
-          "width": 300
-        },
-        {
-          "height": 60,
-          "url": "https://mosaic.scdn.co/60/ab67616d00001e023e21c16dacd4d142b8c2a822ab67616d00001e025143fda9a67b19ec706418a0ab67616d00001e02911a5b0496c641ff37b3fd7fab67616d00001e02f6dfddd212637ea499e678e4",
-          "width": 60
-        }
-      ],
-      "owner": "桃"
+      "owner": "Elwood.yk"
     },
     {
       "id": "2lnYYfhoQdgKUVlqPV2MD8",
@@ -4856,6 +4831,31 @@
         }
       ],
       "owner": "LEENANA"
+    },
+    {
+      "id": "7zu8NqHMZ49WkB6roDW9eD",
+      "name": "荒巻勇仁",
+      "description": "",
+      "followers": 0,
+      "tracks_total": 27,
+      "images": [
+        {
+          "height": 640,
+          "url": "https://mosaic.scdn.co/640/ab67616d00001e022dd25c267278590fdf20c295ab67616d00001e026a48b6494a2064feac71e82eab67616d00001e02e7b327bfe066618262277ccdab67616d00001e02f7f6ae9fccaf1b61b6fbdde0",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://mosaic.scdn.co/300/ab67616d00001e022dd25c267278590fdf20c295ab67616d00001e026a48b6494a2064feac71e82eab67616d00001e02e7b327bfe066618262277ccdab67616d00001e02f7f6ae9fccaf1b61b6fbdde0",
+          "width": 300
+        },
+        {
+          "height": 60,
+          "url": "https://mosaic.scdn.co/60/ab67616d00001e022dd25c267278590fdf20c295ab67616d00001e026a48b6494a2064feac71e82eab67616d00001e02e7b327bfe066618262277ccdab67616d00001e02f7f6ae9fccaf1b61b6fbdde0",
+          "width": 60
+        }
+      ],
+      "owner": "みー"
     }
   ]
 }
