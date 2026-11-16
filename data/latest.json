@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-11-16T05:00:04.311Z",
+  "lastUpdated": "2026-11-16T05:26:54.037Z",
   "artist": {
     "id": "5gSFxPK5Te7WRIKL5CEWos",
     "name": "Jin Akanishi",
@@ -4021,7 +4021,7 @@
       "images": [
         {
           "height": null,
-          "url": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000da848c88ee44e74838f20bc4b90e",
+          "url": "https://image-cdn-fa.spotifycdn.com/image/ab67706c0000d72c8c88ee44e74838f20bc4b90e",
           "width": null
         }
       ],
@@ -4086,7 +4086,7 @@
       "images": [
         {
           "height": null,
-          "url": "https://image-cdn-fa.spotifycdn.com/image/ab67706c0000da84481fdb13b61feb360a4b38fc",
+          "url": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000da84481fdb13b61feb360a4b38fc",
           "width": null
         }
       ],
@@ -4126,7 +4126,7 @@
       "images": [
         {
           "height": null,
-          "url": "https://image-cdn-fa.spotifycdn.com/image/ab67706c0000d72c2180a695c59a6effa37a19ce",
+          "url": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000da842180a695c59a6effa37a19ce",
           "width": null
         }
       ],
@@ -4381,7 +4381,7 @@
       "images": [
         {
           "height": null,
-          "url": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000d72c2b90c74727d3a8722fcc0352",
+          "url": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000da842b90c74727d3a8722fcc0352",
           "width": null
         }
       ],
@@ -4733,31 +4733,6 @@
       "owner": "Ayako Maeda"
     },
     {
-      "id": "7a9lN4BsNhCNcywABCcYmG",
-      "name": "吉田仁人を作り上げたプレイリスト",
-      "description": "",
-      "followers": 0,
-      "tracks_total": 15,
-      "images": [
-        {
-          "height": 640,
-          "url": "https://mosaic.scdn.co/640/ab67616d00001e023f3a6fd24fb49e6dabf7c5bfab67616d00001e0242ce15113d0b6d0daa9afc7fab67616d00001e02633f6da934548f581bd1f369ab67616d00001e02b47b4415fc216965fa8d720c",
-          "width": 640
-        },
-        {
-          "height": 300,
-          "url": "https://mosaic.scdn.co/300/ab67616d00001e023f3a6fd24fb49e6dabf7c5bfab67616d00001e0242ce15113d0b6d0daa9afc7fab67616d00001e02633f6da934548f581bd1f369ab67616d00001e02b47b4415fc216965fa8d720c",
-          "width": 300
-        },
-        {
-          "height": 60,
-          "url": "https://mosaic.scdn.co/60/ab67616d00001e023f3a6fd24fb49e6dabf7c5bfab67616d00001e0242ce15113d0b6d0daa9afc7fab67616d00001e02633f6da934548f581bd1f369ab67616d00001e02b47b4415fc216965fa8d720c",
-          "width": 60
-        }
-      ],
-      "owner": "CHIM"
-    },
-    {
       "id": "5CRKUdJyWvhc562R5V70zM",
       "name": "西城秀樹  シングル曲  マイベスト",
       "description": "Thank you for your brilliant vocal performance , Hideki Saijo 💐",
@@ -4791,7 +4766,7 @@
       "images": [
         {
           "height": null,
-          "url": "https://image-cdn-fa.spotifycdn.com/image/ab67706c0000da8452629445f0c05fd04d4ff254",
+          "url": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000da8452629445f0c05fd04d4ff254",
           "width": null
         }
       ],
@@ -4821,6 +4796,31 @@
         }
       ],
       "owner": "Kmi"
+    },
+    {
+      "id": "4DmDwsq2FVbPUAJp8Qi2qs",
+      "name": "香西かおりベスト",
+      "description": "",
+      "followers": 0,
+      "tracks_total": 54,
+      "images": [
+        {
+          "height": 640,
+          "url": "https://mosaic.scdn.co/640/ab67616d00001e023ba33786343232fdd1c3ad8dab67616d00001e024ae4ffced0272b01a6a36c2cab67616d00001e0254e9e337306efaf3570ada98ab67616d00001e026df2267651847962c740ca79",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://mosaic.scdn.co/300/ab67616d00001e023ba33786343232fdd1c3ad8dab67616d00001e024ae4ffced0272b01a6a36c2cab67616d00001e0254e9e337306efaf3570ada98ab67616d00001e026df2267651847962c740ca79",
+          "width": 300
+        },
+        {
+          "height": 60,
+          "url": "https://mosaic.scdn.co/60/ab67616d00001e023ba33786343232fdd1c3ad8dab67616d00001e024ae4ffced0272b01a6a36c2cab67616d00001e0254e9e337306efaf3570ada98ab67616d00001e026df2267651847962c740ca79",
+          "width": 60
+        }
+      ],
+      "owner": "Smcattu"
     },
     {
       "id": "1eymq7d1KSAXE9jNYAuO7K",
@@ -4871,7 +4871,7 @@
       "images": [
         {
           "height": null,
-          "url": "https://image-cdn-fa.spotifycdn.com/image/ab67706c0000d72c460475ee55fedcf69fdbf90c",
+          "url": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000da84460475ee55fedcf69fdbf90c",
           "width": null
         }
       ],
